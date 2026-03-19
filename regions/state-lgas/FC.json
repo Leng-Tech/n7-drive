@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Abaji",
+    "state_code": "FC",
+    "state_name": "Federal Capital Territory",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.475556,
+    "longitude": 6.943333
+  },
+  {
+    "name": "Abuja",
+    "state_code": "FC",
+    "state_name": "Federal Capital Territory",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.06666667,
+    "longitude": 7.48333333
+  },
+  {
+    "name": "Bwari",
+    "state_code": "FC",
+    "state_name": "Federal Capital Territory",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.280278,
+    "longitude": 7.38
+  },
+  {
+    "name": "Gwagwalada",
+    "state_code": "FC",
+    "state_name": "Federal Capital Territory",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.939167,
+    "longitude": 7.075833
+  },
+  {
+    "name": "Kuje",
+    "state_code": "FC",
+    "state_name": "Federal Capital Territory",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.88222222,
+    "longitude": 7.22027778
+  },
+  {
+    "name": "Kwali",
+    "state_code": "FC",
+    "state_name": "Federal Capital Territory",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.839722,
+    "longitude": 7.054167
+  }
+]

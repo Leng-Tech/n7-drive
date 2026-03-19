@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Aboh Mbaise",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.45,
+    "longitude": 7.23333333
+  },
+  {
+    "name": "Ahiazu Mbaise",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.546985,
+    "longitude": 7.270299
+  },
+  {
+    "name": "Ehime Mbano",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.66258,
+    "longitude": 7.30387
+  },
+  {
+    "name": "Ezinihitte Mbaise",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.50511,
+    "longitude": 7.367715
+  },
+  {
+    "name": "Ideato North",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.50511,
+    "longitude": 7.367715
+  },
+  {
+    "name": "Ideato South",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.85,
+    "longitude": 7.1
+  },
+  {
+    "name": "Ihitte/Uboma",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.616412,
+    "longitude": 7.349424
+  },
+  {
+    "name": "Ikeduru",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.550556,
+    "longitude": 7.066389
+  },
+  {
+    "name": "Isiala Mbano",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.703582,
+    "longitude": 7.179541
+  },
+  {
+    "name": "Isu",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.68388889,
+    "longitude": 7.06888889
+  },
+  {
+    "name": "Mbaitoli",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.587778,
+    "longitude": 7.05
+  },
+  {
+    "name": "Ngor Okpala",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.496233,
+    "longitude": 7.043545
+  },
+  {
+    "name": "Njaba",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.702103,
+    "longitude": 7.018633
+  },
+  {
+    "name": "Nkwerre",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.75,
+    "longitude": 7.1
+  },
+  {
+    "name": "Nwangele",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.725859,
+    "longitude": 7.119447
+  },
+  {
+    "name": "Obowo",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.601592,
+    "longitude": 7.320757
+  },
+  {
+    "name": "Oguta",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.71166667,
+    "longitude": 6.80944444
+  },
+  {
+    "name": "Ohaji/Egbema",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.305833,
+    "longitude": 6.945556
+  },
+  {
+    "name": "Okigwe",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.483,
+    "longitude": 7.55
+  },
+  {
+    "name": "Onuimo",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.77363,
+    "longitude": 7.2411
+  },
+  {
+    "name": "Orlu",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.79638889,
+    "longitude": 7.03888889
+  },
+  {
+    "name": "Orsu",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.853889,
+    "longitude": 6.86
+  },
+  {
+    "name": "Oru East",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.983333,
+    "longitude": 6.983333
+  },
+  {
+    "name": "Oru West",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.735833,
+    "longitude": 6.883333
+  },
+  {
+    "name": "Owerri Municipal",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.485,
+    "longitude": 7.035
+  },
+  {
+    "name": "Owerri North",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.456667,
+    "longitude": 7.102778
+  },
+  {
+    "name": "Owerri West",
+    "state_code": "IM",
+    "state_name": "Imo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.476513,
+    "longitude": 6.979718
+  }
+]

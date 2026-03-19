@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Demsa",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.41666667,
+    "longitude": 12.13333333
+  },
+  {
+    "name": "Fufore",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.21666667,
+    "longitude": 12.65
+  },
+  {
+    "name": "Ganye",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.43333,
+    "longitude": 12.0667
+  },
+  {
+    "name": "Girei",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.36667,
+    "longitude": 12.55
+  },
+  {
+    "name": "Gombi",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.16222222,
+    "longitude": 12.74
+  },
+  {
+    "name": "Guyuk",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.90555556,
+    "longitude": 11.92833333
+  },
+  {
+    "name": "Hong",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.23166667,
+    "longitude": 12.93027778
+  },
+  {
+    "name": "Jada",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.76666667,
+    "longitude": 12.15
+  },
+  {
+    "name": "Lamurde",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.6,
+    "longitude": 11.78333333
+  },
+  {
+    "name": "Madagali",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.74611111,
+    "longitude": 13.41583333
+  },
+  {
+    "name": "Maiha",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.99555556,
+    "longitude": 13.21805556
+  },
+  {
+    "name": "Mayo Belwa",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.05,
+    "longitude": 12.05
+  },
+  {
+    "name": "Michika",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.61666667,
+    "longitude": 13.38333333
+  },
+  {
+    "name": "Mubi North",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.26666667,
+    "longitude": 13.26666667
+  },
+  {
+    "name": "Mubi South",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.1874,
+    "longitude": 13.39576
+  },
+  {
+    "name": "Numan",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.46694444,
+    "longitude": 12.03277778
+  },
+  {
+    "name": "Shelleng",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.88472222,
+    "longitude": 12.00888889
+  },
+  {
+    "name": "Song",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.82444444,
+    "longitude": 12.625
+  },
+  {
+    "name": "Toungo",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.11666667,
+    "longitude": 12.05
+  },
+  {
+    "name": "Yola North",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.188528,
+    "longitude": 12.393866
+  },
+  {
+    "name": "Yola South",
+    "state_code": "AD",
+    "state_name": "Adamawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.249949,
+    "longitude": 12.412618
+  }
+]

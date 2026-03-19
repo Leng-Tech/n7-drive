@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Ado",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.8,
+    "longitude": 7.65
+  },
+  {
+    "name": "Agatu",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.9,
+    "longitude": 7.9
+  },
+  {
+    "name": "Apa",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.829754,
+    "longitude": 8.069994
+  },
+  {
+    "name": "Buruku",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.416792,
+    "longitude": 9.224674
+  },
+  {
+    "name": "Gboko",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.327778,
+    "longitude": 8.995
+  },
+  {
+    "name": "Guma",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.823295,
+    "longitude": 8.863239
+  },
+  {
+    "name": "Gwer East",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.298066,
+    "longitude": 8.482303
+  },
+  {
+    "name": "Gwer West",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.584645,
+    "longitude": 8.205478
+  },
+  {
+    "name": "Katsina Ala",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.16666667,
+    "longitude": 9.28333333
+  },
+  {
+    "name": "Konshisha",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.071123,
+    "longitude": 8.663878
+  },
+  {
+    "name": "Kwande",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.890043,
+    "longitude": 9.233408
+  },
+  {
+    "name": "Logo",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.507748,
+    "longitude": 9.350653
+  },
+  {
+    "name": "Makurdi",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.730556,
+    "longitude": 8.536111
+  },
+  {
+    "name": "Obi",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7,
+    "longitude": 8.25
+  },
+  {
+    "name": "Ogbadibo",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.13907,
+    "longitude": 7.668285
+  },
+  {
+    "name": "Ohimini",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.23015,
+    "longitude": 7.927993
+  },
+  {
+    "name": "Oju",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.85,
+    "longitude": 8.41666667
+  },
+  {
+    "name": "Okpokwu",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.06277778,
+    "longitude": 8.21
+  },
+  {
+    "name": "Otukpo",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.19305556,
+    "longitude": 8.14638889
+  },
+  {
+    "name": "Tarka",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.620833,
+    "longitude": 8.881944
+  },
+  {
+    "name": "Ukum",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.530801,
+    "longitude": 9.649268
+  },
+  {
+    "name": "Ushongo",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.135788,
+    "longitude": 9.032921
+  },
+  {
+    "name": "Vandeikya",
+    "state_code": "BE",
+    "state_name": "Benue",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.782346,
+    "longitude": 9.069257
+  }
+]

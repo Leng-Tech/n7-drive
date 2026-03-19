@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Abakaliki",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.33333333,
+    "longitude": 8.1
+  },
+  {
+    "name": "Afikpo North",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.887936,
+    "longitude": 7.953071
+  },
+  {
+    "name": "Afikpo South",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.96666667,
+    "longitude": 7.86666667
+  },
+  {
+    "name": "Ebonyi",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.25,
+    "longitude": 8.08333333
+  },
+  {
+    "name": "Ezza North",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.081572,
+    "longitude": 7.995858
+  },
+  {
+    "name": "Ezza South",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.177757,
+    "longitude": 8.040377
+  },
+  {
+    "name": "Ishielu",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.428567,
+    "longitude": 7.818371
+  },
+  {
+    "name": "Ivo",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.919317,
+    "longitude": 7.55976
+  },
+  {
+    "name": "Izzi",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.385765,
+    "longitude": 8.02549
+  },
+  {
+    "name": "Ohaozara",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.030218,
+    "longitude": 7.71407
+  },
+  {
+    "name": "Ohaukwu",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.030218,
+    "longitude": 7.71407
+  },
+  {
+    "name": "Onicha",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.11252,
+    "longitude": 7.825484
+  },
+  {
+    "name": "Ikwo",
+    "state_code": "EB",
+    "state_name": "Ebonyi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.473,
+    "longitude": 7.487
+  }
+]

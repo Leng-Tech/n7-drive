@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Akko",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.10706761352457,
+    "longitude": 11.041261362116334
+  },
+  {
+    "name": "Balanga",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.96666667,
+    "longitude": 11.68333333
+  },
+  {
+    "name": "Billiri",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.83333333,
+    "longitude": 11.15
+  },
+  {
+    "name": "Dukku",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.81666667,
+    "longitude": 10.76666667
+  },
+  {
+    "name": "Funakaye",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.85,
+    "longitude": 11.43333333
+  },
+  {
+    "name": "Gombe",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.28333333,
+    "longitude": 11.16666667
+  },
+  {
+    "name": "Kaltungo",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.88333333,
+    "longitude": 11.43333333
+  },
+  {
+    "name": "Kwami",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.5,
+    "longitude": 11.25
+  },
+  {
+    "name": "Nafada",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.1333,
+    "longitude": 11.25
+  },
+  {
+    "name": "Shongom",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.65,
+    "longitude": 11.2167
+  },
+  {
+    "name": "Yamaltu/Deba",
+    "state_code": "GO",
+    "state_name": "Gombe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.2167,
+    "longitude": 11.3833
+  }
+]

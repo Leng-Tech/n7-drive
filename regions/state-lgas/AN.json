@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Aguata",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.01666667,
+    "longitude": 7.08333333
+  },
+  {
+    "name": "Anambra East",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.333333,
+    "longitude": 6.866667
+  },
+  {
+    "name": "Anambra West",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.416667,
+    "longitude": 6.683333
+  },
+  {
+    "name": "Anaocha",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.15,
+    "longitude": 7.05
+  },
+  {
+    "name": "Awka North",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.233333,
+    "longitude": 7.133333
+  },
+  {
+    "name": "Awka South",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.16666667,
+    "longitude": 7.06666667
+  },
+  {
+    "name": "Ayamelum",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.6,
+    "longitude": 6.966667
+  },
+  {
+    "name": "Dunukofia",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.271944,
+    "longitude": 6.976667
+  },
+  {
+    "name": "Ekwusigo",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.054662,
+    "longitude": 6.82859
+  },
+  {
+    "name": "Idemili North",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.097069,
+    "longitude": 6.984745
+  },
+  {
+    "name": "Idemili South",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.100683,
+    "longitude": 6.898364
+  },
+  {
+    "name": "Ihiala",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.85388889,
+    "longitude": 6.86
+  },
+  {
+    "name": "Njikoka",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.183846,
+    "longitude": 6.99191
+  },
+  {
+    "name": "Nnewi North",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.938767,
+    "longitude": 5.938767
+  },
+  {
+    "name": "Nnewi South",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.938383,
+    "longitude": 6.921821
+  },
+  {
+    "name": "Ogbaru",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.960656,
+    "longitude": 6.731678
+  },
+  {
+    "name": "Onitsha North",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.189277,
+    "longitude": 6.805853
+  },
+  {
+    "name": "Onitsha South",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.135818,
+    "longitude": 6.788542
+  },
+  {
+    "name": "Orumba North",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.042599,
+    "longitude": 7.213103
+  },
+  {
+    "name": "Orumba South",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.990942,
+    "longitude": 5.990942
+  },
+  {
+    "name": "Oyi",
+    "state_code": "AN",
+    "state_name": "Anambra",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.25,
+    "longitude": 6.21666667
+  }
+]

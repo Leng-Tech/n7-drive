@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Binji",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.21666667,
+    "longitude": 4.91666667
+  },
+  {
+    "name": "Bodinga",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.88333333,
+    "longitude": 5.16666667
+  },
+  {
+    "name": "Dange/Shuni",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.85,
+    "longitude": 5.35
+  },
+  {
+    "name": "Gada",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.76666667,
+    "longitude": 5.66666667
+  },
+  {
+    "name": "Goronyo",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.45305556,
+    "longitude": 5.67638889
+  },
+  {
+    "name": "Gudu",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.46666667,
+    "longitude": 4.43333333
+  },
+  {
+    "name": "Gwadabawa",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.3697,
+    "longitude": 5.23
+  },
+  {
+    "name": "Illela",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.7325,
+    "longitude": 5.30027778
+  },
+  {
+    "name": "Isa",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.20027778,
+    "longitude": 6.40722222
+  },
+  {
+    "name": "Kware",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.21805556,
+    "longitude": 5.26722222
+  },
+  {
+    "name": "Rabah",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.11666667,
+    "longitude": 5.51666667
+  },
+  {
+    "name": "Sabon Birni",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.5611,
+    "longitude": 6.325
+  },
+  {
+    "name": "Shagari",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.63333333,
+    "longitude": 5
+  },
+  {
+    "name": "Silame",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.03333333,
+    "longitude": 4.85
+  },
+  {
+    "name": "Sokoto North",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.05,
+    "longitude": 5.23333333
+  },
+  {
+    "name": "Sokoto South",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.05,
+    "longitude": 5.21666667
+  },
+  {
+    "name": "Tambuwal",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.31666667,
+    "longitude": 4.8
+  },
+  {
+    "name": "Tangaza",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.5167,
+    "longitude": 4.96667
+  },
+  {
+    "name": "Tureta",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.58944444,
+    "longitude": 5.54694444
+  },
+  {
+    "name": "Wamako",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.03777778,
+    "longitude": 5.09361111
+  },
+  {
+    "name": "Wurno",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.28416667,
+    "longitude": 5.4275
+  },
+  {
+    "name": "Yabo",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.71916667,
+    "longitude": 5.00616667
+  },
+  {
+    "name": "Kebbe",
+    "state_code": "SO",
+    "state_name": "Sokoto",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.13333333,
+    "longitude": 4.73333333
+  }
+]

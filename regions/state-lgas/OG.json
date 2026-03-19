@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Abeokuta North",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.2,
+    "longitude": 3.2
+  },
+  {
+    "name": "Abeokuta South",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.15,
+    "longitude": 3.35
+  },
+  {
+    "name": "Ado-Odo/Ota",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.63333333,
+    "longitude": 3.1
+  },
+  {
+    "name": "Ewekoro",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.93333333,
+    "longitude": 3.21666667
+  },
+  {
+    "name": "Ifo",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.81666667,
+    "longitude": 3.2
+  },
+  {
+    "name": "Ijebu East",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.73333333,
+    "longitude": 4.16666667
+  },
+  {
+    "name": "Ijebu North",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.95,
+    "longitude": 4
+  },
+  {
+    "name": "Ijebu North East",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.9,
+    "longitude": 4.01666667
+  },
+  {
+    "name": "Ijebu Ode",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.82083333,
+    "longitude": 3.92083333
+  },
+  {
+    "name": "Ikenne",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.86666667,
+    "longitude": 3.71666667
+  },
+  {
+    "name": "Imeko Afon",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.63333333,
+    "longitude": 2.86666667
+  },
+  {
+    "name": "Ipokia",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.53333333,
+    "longitude": 2.85
+  },
+  {
+    "name": "Obafemi Owode",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.95,
+    "longitude": 3.5
+  },
+  {
+    "name": "Odeda",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.21666667,
+    "longitude": 3.51666667
+  },
+  {
+    "name": "Odogbolu",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.76666667,
+    "longitude": 3.8
+  },
+  {
+    "name": "Ogun Waterside",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.48333333,
+    "longitude": 4.4
+  },
+  {
+    "name": "Remo North",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7,
+    "longitude": 3.71666667
+  },
+  {
+    "name": "Shagamu",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.83333333,
+    "longitude": 3.65
+  },
+  {
+    "name": "Yewa North",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.15,
+    "longitude": 2.91666667
+  },
+  {
+    "name": "Yewa South",
+    "state_code": "OG",
+    "state_name": "Ogun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.8,
+    "longitude": 2.95
+  }
+]

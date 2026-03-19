@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Akoko Edo",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.275622,
+    "longitude": 6.107379
+  },
+  {
+    "name": "Egor",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.382926,
+    "longitude": 5.569175
+  },
+  {
+    "name": "Esan Central",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.738727,
+    "longitude": 6.218905
+  },
+  {
+    "name": "Esan North East",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.7,
+    "longitude": 6.333333
+  },
+  {
+    "name": "Esan South East",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.659722,
+    "longitude": 6.382222
+  },
+  {
+    "name": "Esan West",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.753472,
+    "longitude": 6.073766
+  },
+  {
+    "name": "Etsako Central",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.08965,
+    "longitude": 6.50146
+  },
+  {
+    "name": "Etsako East",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.106769,
+    "longitude": 6.687541
+  },
+  {
+    "name": "Etsako West",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.913601,
+    "longitude": 6.29955
+  },
+  {
+    "name": "Igueben",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.6,
+    "longitude": 6.58333333
+  },
+  {
+    "name": "Ikpoba Okha",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.256981,
+    "longitude": 5.722929
+  },
+  {
+    "name": "Oredo",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.183772,
+    "longitude": 5.596106
+  },
+  {
+    "name": "Orhionmwon",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.294568,
+    "longitude": 6.027932
+  },
+  {
+    "name": "Ovia North East",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.29312,
+    "longitude": 5.543304
+  },
+  {
+    "name": "Ovia South West",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.567402,
+    "longitude": 5.353142
+  },
+  {
+    "name": "Owan East",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.943126,
+    "longitude": 5.985832
+  },
+  {
+    "name": "Owan West",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.907245,
+    "longitude": 5.924599
+  },
+  {
+    "name": "Uhunmwonde",
+    "state_code": "ED",
+    "state_name": "Edo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.617483,
+    "longitude": 5.985682
+  }
+]

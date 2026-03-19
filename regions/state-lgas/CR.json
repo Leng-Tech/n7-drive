@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Abi",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.833333,
+    "longitude": 7.233333
+  },
+  {
+    "name": "Akamkpa",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.326828,
+    "longitude": 8.346262
+  },
+  {
+    "name": "Akpabuyo",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.950439,
+    "longitude": 8.393276
+  },
+  {
+    "name": "Bakassi",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.58333333,
+    "longitude": 8.6
+  },
+  {
+    "name": "Bekwarra",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.69388889,
+    "longitude": 8.9675
+  },
+  {
+    "name": "Biase",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.557438,
+    "longitude": 8.110474
+  },
+  {
+    "name": "Boki",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.273889,
+    "longitude": 9.01
+  },
+  {
+    "name": "Calabar Municipal",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.974531,
+    "longitude": 8.34241
+  },
+  {
+    "name": "Calabar South",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.918822,
+    "longitude": 8.320945
+  },
+  {
+    "name": "Etung",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.858889,
+    "longitude": 8.791667
+  },
+  {
+    "name": "Ikom",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.08333333,
+    "longitude": 8.61666667
+  },
+  {
+    "name": "Obanliku",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.609277,
+    "longitude": 9.250274
+  },
+  {
+    "name": "Obubra",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.083333,
+    "longitude": 8.333333
+  },
+  {
+    "name": "Obudu",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.66666667,
+    "longitude": 9.16666667
+  },
+  {
+    "name": "Odukpani",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.079809,
+    "longitude": 8.350403
+  },
+  {
+    "name": "Ogoja",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.5,
+    "longitude": 8.66666667
+  },
+  {
+    "name": "Yakurr",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.806111,
+    "longitude": 8.175
+  },
+  {
+    "name": "Yala",
+    "state_code": "CR",
+    "state_name": "Cross River",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.7,
+    "longitude": 8.6
+  }
+]

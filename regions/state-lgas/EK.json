@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Ado-Ekiti",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.621111,
+    "longitude": 5.221389
+  },
+  {
+    "name": "Efon",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.36666667,
+    "longitude": 3.63333333
+  },
+  {
+    "name": "Ekiti East",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.749096,
+    "longitude": 5.719633
+  },
+  {
+    "name": "Ekiti South West",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.617082,
+    "longitude": 5.24349
+  },
+  {
+    "name": "Ekiti West",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.657723,
+    "longitude": 5.223741
+  },
+  {
+    "name": "Emure",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.45,
+    "longitude": 5.46667
+  },
+  {
+    "name": "Gbonyin",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.621623,
+    "longitude": 5.239016
+  },
+  {
+    "name": "Ido-Osi",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.856505,
+    "longitude": 5.175537
+  },
+  {
+    "name": "Ijero",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.81667,
+    "longitude": 5.08333
+  },
+  {
+    "name": "Ikere",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.5,
+    "longitude": 5.23333
+  },
+  {
+    "name": "Ikole",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.78333333,
+    "longitude": 5.51666667
+  },
+  {
+    "name": "Ilejemeje",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.953263,
+    "longitude": 5.230908
+  },
+  {
+    "name": "Irepodun/Ifelodun",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.621111,
+    "longitude": 5.221389
+  },
+  {
+    "name": "Ise/Orun",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.46,
+    "longitude": 5.42
+  },
+  {
+    "name": "Moba",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.987774,
+    "longitude": 5.124049
+  },
+  {
+    "name": "Oye",
+    "state_code": "EK",
+    "state_name": "Ekiti",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.79944444,
+    "longitude": 5.32833333
+  }
+]

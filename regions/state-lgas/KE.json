@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Aliero",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.29654,
+    "longitude": 4.42793
+  },
+  {
+    "name": "Arewa Dandi",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.688388,
+    "longitude": 4.074184
+  },
+  {
+    "name": "Argungu",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.73333333,
+    "longitude": 4.51666667
+  },
+  {
+    "name": "Augie",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.88333333,
+    "longitude": 4.6
+  },
+  {
+    "name": "Bagudo",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.400095,
+    "longitude": 4.225767
+  },
+  {
+    "name": "Birnin Kebbi",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.45361111,
+    "longitude": 4.20027778
+  },
+  {
+    "name": "Bunza",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.0916,
+    "longitude": 4.0108
+  },
+  {
+    "name": "Dandi",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.68333333,
+    "longitude": 8.66666667
+  },
+  {
+    "name": "Danko-Wasagu",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.395688,
+    "longitude": 5.485568
+  },
+  {
+    "name": "Fakai",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.547523,
+    "longitude": 4.96493
+  },
+  {
+    "name": "Gwandu",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.50222222,
+    "longitude": 4.6425
+  },
+  {
+    "name": "Jega",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.3667,
+    "longitude": 4.6333
+  },
+  {
+    "name": "Kalgo",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.33257,
+    "longitude": 4.20035
+  },
+  {
+    "name": "Koko/Besse",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.45855,
+    "longitude": 4.43782
+  },
+  {
+    "name": "Maiyama",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.99054,
+    "longitude": 4.35394
+  },
+  {
+    "name": "Ngaski",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.40709,
+    "longitude": 4.71781
+  },
+  {
+    "name": "Sakaba",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.065401,
+    "longitude": 5.596032
+  },
+  {
+    "name": "Shanga",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.1958,
+    "longitude": 4.5675
+  },
+  {
+    "name": "Suru",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.83,
+    "longitude": 4.096667
+  },
+  {
+    "name": "Yauri",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.395688,
+    "longitude": 5.485568
+  },
+  {
+    "name": "Zuru",
+    "state_code": "KE",
+    "state_name": "Kebbi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.435,
+    "longitude": 5.235
+  }
+]

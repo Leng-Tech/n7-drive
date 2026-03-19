@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Akwanga",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.91666667,
+    "longitude": 8.38333333
+  },
+  {
+    "name": "Awe",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.823611,
+    "longitude": 3.95
+  },
+  {
+    "name": "Doma",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.396241,
+    "longitude": 8.35864
+  },
+  {
+    "name": "Karu",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.019231,
+    "longitude": 7.613516
+  },
+  {
+    "name": "Keana",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.147346,
+    "longitude": 8.800478
+  },
+  {
+    "name": "Keffi",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.8464,
+    "longitude": 7.8733
+  },
+  {
+    "name": "Kokona",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.85,
+    "longitude": 5.08333333
+  },
+  {
+    "name": "Lafia",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.49166667,
+    "longitude": 8.51666667
+  },
+  {
+    "name": "Nasarawa",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.53333333,
+    "longitude": 8.3
+  },
+  {
+    "name": "Nasarawa Egon",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.741115,
+    "longitude": 8.542192
+  },
+  {
+    "name": "Obi",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7,
+    "longitude": 8.25
+  },
+  {
+    "name": "Toto",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.388021,
+    "longitude": 7.078199
+  },
+  {
+    "name": "Wamba",
+    "state_code": "NA",
+    "state_name": "Nasarawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.93333333,
+    "longitude": 8.6
+  }
+]

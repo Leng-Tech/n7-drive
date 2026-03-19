@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Barkin Ladi",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.56667,
+    "longitude": 8.91667
+  },
+  {
+    "name": "Bassa",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.0833,
+    "longitude": 8.73333
+  },
+  {
+    "name": "Bokkos",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.25,
+    "longitude": 8.88333333
+  },
+  {
+    "name": "Jos East",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.91666667,
+    "longitude": 9.1
+  },
+  {
+    "name": "Jos North",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.91666667,
+    "longitude": 8.9
+  },
+  {
+    "name": "Jos South",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.76666667,
+    "longitude": 8.8
+  },
+  {
+    "name": "Kanam",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.56601387018746,
+    "longitude": 9.991505892537331
+  },
+  {
+    "name": "Kanke",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.367178899999999,
+    "longitude": 9.639354933485457
+  },
+  {
+    "name": "Langtang North",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.13333333,
+    "longitude": 9.78333333
+  },
+  {
+    "name": "Langtang South",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.63333333,
+    "longitude": 9.8
+  },
+  {
+    "name": "Mangu",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.43333333,
+    "longitude": 9.13333333
+  },
+  {
+    "name": "Mikang",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9,
+    "longitude": 9.58333333
+  },
+  {
+    "name": "Pankshin",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.327248,
+    "longitude": 9.431291
+  },
+  {
+    "name": "Qua'an Pan",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.8,
+    "longitude": 9.15
+  },
+  {
+    "name": "Riyom",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.56666667,
+    "longitude": 8.66666667
+  },
+  {
+    "name": "Shendam",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.71666667,
+    "longitude": 9.5
+  },
+  {
+    "name": "Wase",
+    "state_code": "PL",
+    "state_name": "Plateau",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.1,
+    "longitude": 9.96666667
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Agege",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.62194444,
+    "longitude": 3.32583333
+  },
+  {
+    "name": "Ajeromi-Ifelodun",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.4448,
+    "longitude": 3.3339
+  },
+  {
+    "name": "Alimosho",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.61055556,
+    "longitude": 3.29583333
+  },
+  {
+    "name": "Amuwo-Odofin",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.45,
+    "longitude": 3.266667
+  },
+  {
+    "name": "Apapa",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.45,
+    "longitude": 3.36666667
+  },
+  {
+    "name": "Badagry",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.41666667,
+    "longitude": 2.88333333
+  },
+  {
+    "name": "Epe",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.58333333,
+    "longitude": 3.98333333
+  },
+  {
+    "name": "Eti-Osa",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.437443,
+    "longitude": 3.564588
+  },
+  {
+    "name": "Ibeju-Lekki",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.416667,
+    "longitude": 2.883333
+  },
+  {
+    "name": "Ifako-Ijaiye",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.68472222,
+    "longitude": 3.28888889
+  },
+  {
+    "name": "Ikeja",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.6,
+    "longitude": 3.35
+  },
+  {
+    "name": "Ikorodu",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.6,
+    "longitude": 3.5
+  },
+  {
+    "name": "Kosofe",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.556879,
+    "longitude": 3.384174
+  },
+  {
+    "name": "Lagos Island",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.45,
+    "longitude": 3.4
+  },
+  {
+    "name": "Lagos Mainland",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.504937,
+    "longitude": 3.386503
+  },
+  {
+    "name": "Mushin",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.53333333,
+    "longitude": 3.35
+  },
+  {
+    "name": "Ojo",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.46666667,
+    "longitude": 3.18333333
+  },
+  {
+    "name": "Oshodi-Isolo",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.511865,
+    "longitude": 3.308021
+  },
+  {
+    "name": "Somolu",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.540833,
+    "longitude": 3.387222
+  },
+  {
+    "name": "Surulere",
+    "state_code": "LA",
+    "state_name": "Lagos",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.5,
+    "longitude": 3.35
+  }
+]

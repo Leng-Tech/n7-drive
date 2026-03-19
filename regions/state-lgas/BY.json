@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Brass",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.315,
+    "longitude": 6.24166667
+  },
+  {
+    "name": "Ekeremor",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.05,
+    "longitude": 5.78333333
+  },
+  {
+    "name": "Kolokuma/Opokuma",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.13333333,
+    "longitude": 6.3
+  },
+  {
+    "name": "Nembe",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.53690278,
+    "longitude": 6.40621111
+  },
+  {
+    "name": "Ogbia",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.78333333,
+    "longitude": 6.33333333
+  },
+  {
+    "name": "Sagbama",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.16666667,
+    "longitude": 6.2
+  },
+  {
+    "name": "Southern Ijaw",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.7,
+    "longitude": 5.966667
+  },
+  {
+    "name": "Yenagoa",
+    "state_code": "BY",
+    "state_name": "Bayelsa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.03333333,
+    "longitude": 6.33333333
+  }
+]

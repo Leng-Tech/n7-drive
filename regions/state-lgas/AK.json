@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Abak",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.98333333,
+    "longitude": 7.78333333
+  },
+  {
+    "name": "Eastern Obolo",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.533333,
+    "longitude": 7.7
+  },
+  {
+    "name": "Eket",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.65,
+    "longitude": 7.93333333
+  },
+  {
+    "name": "Esit Eket",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.66055556,
+    "longitude": 8.06666667
+  },
+  {
+    "name": "Essien Udim",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.13333333,
+    "longitude": 7.68333333
+  },
+  {
+    "name": "Etim Ekpo",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.01666667,
+    "longitude": 7.61666667
+  },
+  {
+    "name": "Etinan",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.85,
+    "longitude": 7.83333333
+  },
+  {
+    "name": "Ibeno",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.568693,
+    "longitude": 7.976396
+  },
+  {
+    "name": "Ibesikpo Asutan",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.76666667,
+    "longitude": 7.95
+  },
+  {
+    "name": "Ibiono Ibom",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.23333333,
+    "longitude": 7.88333333
+  },
+  {
+    "name": "Ika",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.01666667,
+    "longitude": 7.53333333
+  },
+  {
+    "name": "Ikono",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.210278,
+    "longitude": 7.793889
+  },
+  {
+    "name": "Ikot Abasi",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.633333,
+    "longitude": 7.65
+  },
+  {
+    "name": "Ikot Ekpene",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.18333333,
+    "longitude": 7.71666667
+  },
+  {
+    "name": "Ini",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.4,
+    "longitude": 7.733333
+  },
+  {
+    "name": "Itu",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.16666667,
+    "longitude": 7.98333333
+  },
+  {
+    "name": "Mbo",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.65,
+    "longitude": 8.23333333
+  },
+  {
+    "name": "Mkpat Enin",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.73361111,
+    "longitude": 7.74861111
+  },
+  {
+    "name": "Nsit Atai",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.85,
+    "longitude": 8.01666667
+  },
+  {
+    "name": "Nsit Ibom",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.88333333,
+    "longitude": 7.9
+  },
+  {
+    "name": "Nsit Ubium",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.76666667,
+    "longitude": 7.93333333
+  },
+  {
+    "name": "Obot Akara",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.26667,
+    "longitude": 7.6
+  },
+  {
+    "name": "Okobo",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.83333333,
+    "longitude": 8.13333333
+  },
+  {
+    "name": "Onna",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.65,
+    "longitude": 7.86666667
+  },
+  {
+    "name": "Oron",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.82583333,
+    "longitude": 8.23388889
+  },
+  {
+    "name": "Oruk Anam",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.81666667,
+    "longitude": 7.65
+  },
+  {
+    "name": "Udung Uko",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.76666667,
+    "longitude": 8.23333333
+  },
+  {
+    "name": "Ukanafun",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.9,
+    "longitude": 7.6
+  },
+  {
+    "name": "Uruan",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.03333333,
+    "longitude": 8.05
+  },
+  {
+    "name": "Urue Offong/Oruko",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.71667,
+    "longitude": 8.15
+  },
+  {
+    "name": "Uyo",
+    "state_code": "AK",
+    "state_name": "Akwa Ibom",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.03333333,
+    "longitude": 7.91666667
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Anka",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.98333333,
+    "longitude": 6.03333333
+  },
+  {
+    "name": "Bakura",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.15,
+    "longitude": 5.9
+  },
+  {
+    "name": "Birnin Magaji/Kiyaw",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.46666667,
+    "longitude": 6.9
+  },
+  {
+    "name": "Bukkuyum",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12,
+    "longitude": 5.61666667
+  },
+  {
+    "name": "Bungudu",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.15,
+    "longitude": 6.5
+  },
+  {
+    "name": "Gummi",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.05,
+    "longitude": 5.16666667
+  },
+  {
+    "name": "Gusau",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.166667,
+    "longitude": 6.666667
+  },
+  {
+    "name": "Kaura Namoda",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.6,
+    "longitude": 6.589722
+  },
+  {
+    "name": "Maradun",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.75,
+    "longitude": 6.28333333
+  },
+  {
+    "name": "Maru",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.6,
+    "longitude": 6.28333333
+  },
+  {
+    "name": "Shinkafi",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.03333333,
+    "longitude": 6.51666667
+  },
+  {
+    "name": "Talata Mafara",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.35,
+    "longitude": 6.06666667
+  },
+  {
+    "name": "Tsafe",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.93333333,
+    "longitude": 6.9
+  },
+  {
+    "name": "Zurmi",
+    "state_code": "ZA",
+    "state_name": "Zamfara",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.85,
+    "longitude": 6.73333333
+  }
+]

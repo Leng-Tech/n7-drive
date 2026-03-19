@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Abua-Odual",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.82972222,
+    "longitude": 6.5675
+  },
+  {
+    "name": "Ahoada East",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.06833333,
+    "longitude": 6.64666667
+  },
+  {
+    "name": "Ahoada West",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.08638889,
+    "longitude": 6.47527778
+  },
+  {
+    "name": "Akuku-Toru",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.56,
+    "longitude": 6.74972222
+  },
+  {
+    "name": "Andoni",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.54916667,
+    "longitude": 7.44638889
+  },
+  {
+    "name": "Asari-Toru",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.78333333,
+    "longitude": 6.85
+  },
+  {
+    "name": "Bonny",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.43333333,
+    "longitude": 7.16666667
+  },
+  {
+    "name": "Degema",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.57416667,
+    "longitude": 6.93805556
+  },
+  {
+    "name": "Eleme",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.7875,
+    "longitude": 7.14361111
+  },
+  {
+    "name": "Emohua",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.88333333,
+    "longitude": 6.86666667
+  },
+  {
+    "name": "Etche",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.99,
+    "longitude": 7.05
+  },
+  {
+    "name": "Gokana",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.65972222,
+    "longitude": 7.2825
+  },
+  {
+    "name": "Ikwerre",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.055143,
+    "longitude": 6.922417
+  },
+  {
+    "name": "Khana",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.7,
+    "longitude": 7.35
+  },
+  {
+    "name": "Obio/Akpor",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.874902,
+    "longitude": 6.999767
+  },
+  {
+    "name": "Ogba/Egbema/Ndoni",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.34166944,
+    "longitude": 6.65556111
+  },
+  {
+    "name": "Ogu/Bolo",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.65055556,
+    "longitude": 7.18305556
+  },
+  {
+    "name": "Okrika",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.74,
+    "longitude": 7.083
+  },
+  {
+    "name": "Omuma",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.969419,
+    "longitude": 7.020821
+  },
+  {
+    "name": "Opobo/Nkoro",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.56805556,
+    "longitude": 7.55277778
+  },
+  {
+    "name": "Oyigbo",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.87806111,
+    "longitude": 7.12833056
+  },
+  {
+    "name": "Port Harcourt",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.82416667,
+    "longitude": 7.03361111
+  },
+  {
+    "name": "Tai",
+    "state_code": "RI",
+    "state_name": "Rivers",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.71666667,
+    "longitude": 7.3
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Aba North",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.33333333,
+    "longitude": 7.31666667
+  },
+  {
+    "name": "Aba South",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.1,
+    "longitude": 7.35
+  },
+  {
+    "name": "Arochukwu",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.38333333,
+    "longitude": 7.91666667
+  },
+  {
+    "name": "Bende",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.56666667,
+    "longitude": 7.63333333
+  },
+  {
+    "name": "Ikwuano",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.43333333,
+    "longitude": 7.56666667
+  },
+  {
+    "name": "Isiala Ngwa North",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.388966,
+    "longitude": 7.446948
+  },
+  {
+    "name": "Isiala Ngwa South",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.36241,
+    "longitude": 7.39998
+  },
+  {
+    "name": "Isuikwuato",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.533333,
+    "longitude": 7.483333
+  },
+  {
+    "name": "Obi Ngwa",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.155402,
+    "longitude": 7.457067
+  },
+  {
+    "name": "Ohafia",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.61666667,
+    "longitude": 7.83333333
+  },
+  {
+    "name": "Osisioma",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.14972222,
+    "longitude": 7.33027778
+  },
+  {
+    "name": "Ugwunagbo",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.984474,
+    "longitude": 7.325783
+  },
+  {
+    "name": "Ukwa East",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.8872,
+    "longitude": 7.3572
+  },
+  {
+    "name": "Ukwa West",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 4.9884,
+    "longitude": 7.2425
+  },
+  {
+    "name": "Umu-Nneochi",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.985662,
+    "longitude": 7.469005
+  },
+  {
+    "name": "Umuahia North",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.5333,
+    "longitude": 7.4833
+  },
+  {
+    "name": "Umuahia South",
+    "state_code": "AB",
+    "state_name": "Abia",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.515311,
+    "longitude": 7.447314
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Aniocha North",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.319994,
+    "longitude": 6.476847
+  },
+  {
+    "name": "Aniocha South",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.183072,
+    "longitude": 6.524367
+  },
+  {
+    "name": "Bomadi",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.161805,
+    "longitude": 5.924511
+  },
+  {
+    "name": "Burutu",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.35,
+    "longitude": 5.516667
+  },
+  {
+    "name": "Ethiope East",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.63314,
+    "longitude": 6.028192
+  },
+  {
+    "name": "Ethiope West",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.63314,
+    "longitude": 6.028192
+  },
+  {
+    "name": "Ika North East",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.186379,
+    "longitude": 6.200409
+  },
+  {
+    "name": "Ika South",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.252758,
+    "longitude": 6.199664
+  },
+  {
+    "name": "Isoko North",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.538333,
+    "longitude": 6.216111
+  },
+  {
+    "name": "Isoko South",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.538333,
+    "longitude": 6.216111
+  },
+  {
+    "name": "Ndokwa East",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.669319,
+    "longitude": 6.523171
+  },
+  {
+    "name": "Ndokwa West",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.815022,
+    "longitude": 6.350772
+  },
+  {
+    "name": "Okpe",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.43333333,
+    "longitude": 5.95
+  },
+  {
+    "name": "Oshimili North",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.382652,
+    "longitude": 6.624309
+  },
+  {
+    "name": "Oshimili South",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.118256,
+    "longitude": 6.66583
+  },
+  {
+    "name": "Patani",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.2412505830419045,
+    "longitude": 6.190626760617503
+  },
+  {
+    "name": "Sapele",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.9,
+    "longitude": 5.66666667
+  },
+  {
+    "name": "Udu",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.75,
+    "longitude": 5.716667
+  },
+  {
+    "name": "Ughelli North",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.75,
+    "longitude": 8.71666667
+  },
+  {
+    "name": "Ughelli South",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.75,
+    "longitude": 8.71666667
+  },
+  {
+    "name": "Ukwuani",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.850198,
+    "longitude": 6.246481
+  },
+  {
+    "name": "Uvwie",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.87,
+    "longitude": 6.001
+  },
+  {
+    "name": "Warri North",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.000089,
+    "longitude": 5.466481
+  },
+  {
+    "name": "Warri South",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.519063,
+    "longitude": 5.800606
+  },
+  {
+    "name": "Warri South West",
+    "state_code": "DE",
+    "state_name": "Delta",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 5.599713,
+    "longitude": 5.454881
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Abadam",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.610953,
+    "longitude": 13.277664
+  },
+  {
+    "name": "Askira/Uba",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.654724,
+    "longitude": 12.907777
+  },
+  {
+    "name": "Bama",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.51888889,
+    "longitude": 13.68416667
+  },
+  {
+    "name": "Bayo",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.441838,
+    "longitude": 11.704237
+  },
+  {
+    "name": "Biu",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.6111,
+    "longitude": 12.195
+  },
+  {
+    "name": "Chibok",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.86972222,
+    "longitude": 12.84666667
+  },
+  {
+    "name": "Damboa",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.15,
+    "longitude": 12.75
+  },
+  {
+    "name": "Dikwa",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.0239,
+    "longitude": 13.9158
+  },
+  {
+    "name": "Gubio",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.4975,
+    "longitude": 12.78
+  },
+  {
+    "name": "Guzamala",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.94656,
+    "longitude": 13.176822
+  },
+  {
+    "name": "Gwoza",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.086111,
+    "longitude": 13.691389
+  },
+  {
+    "name": "Hawul",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.451308,
+    "longitude": 12.116581
+  },
+  {
+    "name": "Jere",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.89912,
+    "longitude": 13.29155
+  },
+  {
+    "name": "Kaga",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.810333,
+    "longitude": 12.494153
+  },
+  {
+    "name": "Kala/Balge",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.268627,
+    "longitude": 14.464896
+  },
+  {
+    "name": "Konduga",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.65166667,
+    "longitude": 13.41944444
+  },
+  {
+    "name": "Kukawa",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.91666667,
+    "longitude": 13.56666667
+  },
+  {
+    "name": "Kwaya Kusar",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.817338,
+    "longitude": 13.120352
+  },
+  {
+    "name": "Mafa",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.92583333,
+    "longitude": 13.60555556
+  },
+  {
+    "name": "Magumeri",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.115657,
+    "longitude": 12.83101
+  },
+  {
+    "name": "Maiduguri",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.83333333,
+    "longitude": 13.15
+  },
+  {
+    "name": "Marte",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.364596,
+    "longitude": 13.826741
+  },
+  {
+    "name": "Mobbar",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.103993,
+    "longitude": 12.511041
+  },
+  {
+    "name": "Monguno",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.68333333,
+    "longitude": 13.6
+  },
+  {
+    "name": "Ngala",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.371107,
+    "longitude": 14.206223
+  },
+  {
+    "name": "Nganzai",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.486253,
+    "longitude": 13.209321
+  },
+  {
+    "name": "Shani",
+    "state_code": "BO",
+    "state_name": "Borno",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.183889,
+    "longitude": 11.963889
+  }
+]

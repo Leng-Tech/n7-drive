@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Aninri",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.05,
+    "longitude": 7.58333333
+  },
+  {
+    "name": "Awgu",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.1169,
+    "longitude": 7.476
+  },
+  {
+    "name": "Enugu East",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.53333,
+    "longitude": 7.53333
+  },
+  {
+    "name": "Enugu North",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.46666667,
+    "longitude": 7.51666667
+  },
+  {
+    "name": "Enugu South",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.4,
+    "longitude": 7.5
+  },
+  {
+    "name": "Ezeagu",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.75,
+    "longitude": 7.33333333
+  },
+  {
+    "name": "Igbo Etiti",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.66667,
+    "longitude": 7.36667
+  },
+  {
+    "name": "Igbo Eze North",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.98333,
+    "longitude": 7.45
+  },
+  {
+    "name": "Igbo Eze South",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.91667,
+    "longitude": 7.4
+  },
+  {
+    "name": "Isi-Uzo",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.78333333,
+    "longitude": 7.71666667
+  },
+  {
+    "name": "Nkanu East",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.33333333,
+    "longitude": 7.65
+  },
+  {
+    "name": "Nkanu West",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.3,
+    "longitude": 7.55
+  },
+  {
+    "name": "Nsukka",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.85666667,
+    "longitude": 7.39583333
+  },
+  {
+    "name": "Oji-River",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.26666667,
+    "longitude": 7.26666667
+  },
+  {
+    "name": "Udenu",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.91667,
+    "longitude": 7.51667
+  },
+  {
+    "name": "Udi",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.31667,
+    "longitude": 7.43333
+  },
+  {
+    "name": "Uzo-Uwani",
+    "state_code": "EN",
+    "state_name": "Enugu",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.75,
+    "longitude": 7.2
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Ayedaade",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.31666667,
+    "longitude": 4.35
+  },
+  {
+    "name": "Aiyedire",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.56666667,
+    "longitude": 4.23333333
+  },
+  {
+    "name": "Atakunmosa East",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.48333,
+    "longitude": 4.78333
+  },
+  {
+    "name": "Atakunmosa West",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.55,
+    "longitude": 4.66667
+  },
+  {
+    "name": "Boluwaduro",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.9,
+    "longitude": 4.81666667
+  },
+  {
+    "name": "Boripe",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.86666667,
+    "longitude": 4.65833333
+  },
+  {
+    "name": "Ede North",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.73333333,
+    "longitude": 4.48333333
+  },
+  {
+    "name": "Ede South",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.7,
+    "longitude": 4.45
+  },
+  {
+    "name": "Egbedore",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.81666667,
+    "longitude": 4.43333333
+  },
+  {
+    "name": "Ejigbo",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.9,
+    "longitude": 4.315
+  },
+  {
+    "name": "Ife Central",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.55,
+    "longitude": 4.53333333
+  },
+  {
+    "name": "Ife East",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.45,
+    "longitude": 4.6
+  },
+  {
+    "name": "Ife North",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.36666667,
+    "longitude": 4.46666667
+  },
+  {
+    "name": "Ife South",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.2,
+    "longitude": 4.6
+  },
+  {
+    "name": "Ifedayo",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.95,
+    "longitude": 4.98333333
+  },
+  {
+    "name": "Ifelodun",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.91667,
+    "longitude": 4.66667
+  },
+  {
+    "name": "Ila",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.01666667,
+    "longitude": 4.9
+  },
+  {
+    "name": "Ilesa East",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.61666667,
+    "longitude": 4.76666667
+  },
+  {
+    "name": "Ilesa West",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.65,
+    "longitude": 4.71666667
+  },
+  {
+    "name": "Irepodun",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.83333,
+    "longitude": 4.48333
+  },
+  {
+    "name": "Irewole",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.41666667,
+    "longitude": 4.21666667
+  },
+  {
+    "name": "Isokan",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.3,
+    "longitude": 4.18333333
+  },
+  {
+    "name": "Iwo",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.63333333,
+    "longitude": 4.18333333
+  },
+  {
+    "name": "Obokun",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.78333333,
+    "longitude": 4.76666667
+  },
+  {
+    "name": "Odo-Otin",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.01666667,
+    "longitude": 4.7
+  },
+  {
+    "name": "Ola-Oluwa",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.78333333,
+    "longitude": 4.21666667
+  },
+  {
+    "name": "Olorunda",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.86666667,
+    "longitude": 4.58333333
+  },
+  {
+    "name": "Oriade",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.58333333,
+    "longitude": 4.86666667
+  },
+  {
+    "name": "Orolu",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.9,
+    "longitude": 4.45
+  },
+  {
+    "name": "Osogbo",
+    "state_code": "OS",
+    "state_name": "Osun",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.76666667,
+    "longitude": 4.56666667
+  }
+]

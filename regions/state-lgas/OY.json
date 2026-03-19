@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Afijio",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.8,
+    "longitude": 3.9
+  },
+  {
+    "name": "Akinyele",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.523735,
+    "longitude": 3.914781
+  },
+  {
+    "name": "Atiba",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.849454,
+    "longitude": 3.930354
+  },
+  {
+    "name": "Atisbo",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.549788,
+    "longitude": 3.45
+  },
+  {
+    "name": "Egbeda",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.381337,
+    "longitude": 3.966501
+  },
+  {
+    "name": "Ibadan North",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.403239,
+    "longitude": 3.913107
+  },
+  {
+    "name": "Ibadan North East",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.401536,
+    "longitude": 3.938985
+  },
+  {
+    "name": "Ibadan North West",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.395799,
+    "longitude": 3.881569
+  },
+  {
+    "name": "Ibadan South East",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.37577,
+    "longitude": 3.897557
+  },
+  {
+    "name": "Ibadan South West",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.396389,
+    "longitude": 3.916667
+  },
+  {
+    "name": "Ibarapa Central",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.435346,
+    "longitude": 3.288581
+  },
+  {
+    "name": "Ibarapa East",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.549722,
+    "longitude": 3.45
+  },
+  {
+    "name": "Ibarapa North",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.564226,
+    "longitude": 3.229916
+  },
+  {
+    "name": "Ido",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.507354,
+    "longitude": 3.719376
+  },
+  {
+    "name": "Irepo",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.350425,
+    "longitude": 3.880304
+  },
+  {
+    "name": "Iseyin",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.96666667,
+    "longitude": 3.6
+  },
+  {
+    "name": "Itesiwaju",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.358763,
+    "longitude": 3.959258
+  },
+  {
+    "name": "Iwajowa",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.983269,
+    "longitude": 3.05274
+  },
+  {
+    "name": "Kajola",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.037685,
+    "longitude": 3.348942
+  },
+  {
+    "name": "Lagelu",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.495026,
+    "longitude": 4.073009
+  },
+  {
+    "name": "Ogbomosho North",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.133333,
+    "longitude": 4.25
+  },
+  {
+    "name": "Ogbomosho South",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.11791,
+    "longitude": 4.239092
+  },
+  {
+    "name": "Ogo Oluwa",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.13524,
+    "longitude": 4.24006
+  },
+  {
+    "name": "Olorunsogo",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.752377,
+    "longitude": 4.130988
+  },
+  {
+    "name": "Oluyole",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.218,
+    "longitude": 3.892
+  },
+  {
+    "name": "Ona Ara",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.225568,
+    "longitude": 4.026554
+  },
+  {
+    "name": "Oorelope",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.833333,
+    "longitude": 3.75
+  },
+  {
+    "name": "Ori Ire",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.33423,
+    "longitude": 4.14423
+  },
+  {
+    "name": "Oyo East",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.882092,
+    "longitude": 3.998755
+  },
+  {
+    "name": "Oyo West",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.94157,
+    "longitude": 3.8218
+  },
+  {
+    "name": "Saki East",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.628418,
+    "longitude": 3.640723
+  },
+  {
+    "name": "Saki West",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.666667,
+    "longitude": 3.4
+  },
+  {
+    "name": "Surulere",
+    "state_code": "OY",
+    "state_name": "Oyo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.5,
+    "longitude": 3.35
+  }
+]

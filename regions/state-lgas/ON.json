@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Akoko North East",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.516667,
+    "longitude": 5.75
+  },
+  {
+    "name": "Akoko North West",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.643346,
+    "longitude": 5.76057
+  },
+  {
+    "name": "Akoko South East",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.451155,
+    "longitude": 5.910301
+  },
+  {
+    "name": "Akoko South West",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.45439,
+    "longitude": 5.801639
+  },
+  {
+    "name": "Akure North",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.26277778,
+    "longitude": 5.31583333
+  },
+  {
+    "name": "Akure South",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.2075,
+    "longitude": 5.18833333
+  },
+  {
+    "name": "Ese Odo",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.25754,
+    "longitude": 5.000496
+  },
+  {
+    "name": "Idanre",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.09222222,
+    "longitude": 5.13222222
+  },
+  {
+    "name": "Ifedore",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.343085,
+    "longitude": 5.108323
+  },
+  {
+    "name": "Ilaje",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.369232,
+    "longitude": 4.784181
+  },
+  {
+    "name": "Ile Oluji/Okeigbo",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.166442,
+    "longitude": 4.724235
+  },
+  {
+    "name": "Irele",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.48333333,
+    "longitude": 4.86666667
+  },
+  {
+    "name": "Odigbo",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.793915,
+    "longitude": 4.867455
+  },
+  {
+    "name": "Okitipupa",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.55,
+    "longitude": 4.71666667
+  },
+  {
+    "name": "Ondo East",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.065508,
+    "longitude": 4.931343
+  },
+  {
+    "name": "Ondo West",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.09727,
+    "longitude": 4.84115
+  },
+  {
+    "name": "Ose",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.922762,
+    "longitude": 5.777478
+  },
+  {
+    "name": "Owo",
+    "state_code": "ON",
+    "state_name": "Ondo",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.18333333,
+    "longitude": 5.58333333
+  }
+]

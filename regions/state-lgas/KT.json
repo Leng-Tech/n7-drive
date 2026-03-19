@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Bakori",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.55,
+    "longitude": 7.43333333
+  },
+  {
+    "name": "Batagarawa",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.9,
+    "longitude": 7.61666667
+  },
+  {
+    "name": "Batsari",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.75277778,
+    "longitude": 7.24194444
+  },
+  {
+    "name": "Baure",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.78333333,
+    "longitude": 8.76666667
+  },
+  {
+    "name": "Bindawa",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.71666667,
+    "longitude": 7.83333333
+  },
+  {
+    "name": "Charanchi",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.675,
+    "longitude": 7.7275
+  },
+  {
+    "name": "Dan Musa",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.26388889,
+    "longitude": 7.33388889
+  },
+  {
+    "name": "DanDume",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.41666667,
+    "longitude": 7.2
+  },
+  {
+    "name": "Danja",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.38333333,
+    "longitude": 7.56666667
+  },
+  {
+    "name": "Daura",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.03638889,
+    "longitude": 8.31777778
+  },
+  {
+    "name": "Dutsi",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.82527778,
+    "longitude": 8.14277778
+  },
+  {
+    "name": "Dutsin-Ma",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.455,
+    "longitude": 7.49138889
+  },
+  {
+    "name": "Faskari",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.71666667,
+    "longitude": 7.03333333
+  },
+  {
+    "name": "Funtua",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.53333333,
+    "longitude": 7.31666667
+  },
+  {
+    "name": "Ingawa",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.63972222,
+    "longitude": 8.05027778
+  },
+  {
+    "name": "Jibia",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.09166667,
+    "longitude": 7.22638889
+  },
+  {
+    "name": "Kafur",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.65,
+    "longitude": 7.7
+  },
+  {
+    "name": "Kaita",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.08055556,
+    "longitude": 7.75388889
+  },
+  {
+    "name": "Kankara",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.930319,
+    "longitude": 7.412649
+  },
+  {
+    "name": "Kankia",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.46666667,
+    "longitude": 7.8
+  },
+  {
+    "name": "Katsina",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.98888889,
+    "longitude": 7.60083333
+  },
+  {
+    "name": "Kurfi",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.66611111,
+    "longitude": 7.48305556
+  },
+  {
+    "name": "Kusada",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.46666667,
+    "longitude": 7.98333333
+  },
+  {
+    "name": "Mai'Adua",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.19055556,
+    "longitude": 8.21166667
+  },
+  {
+    "name": "Malumfashi",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.8,
+    "longitude": 7.61666667
+  },
+  {
+    "name": "Mani",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.85611111,
+    "longitude": 7.87444444
+  },
+  {
+    "name": "Mashi",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.1,
+    "longitude": 8
+  },
+  {
+    "name": "Matazu",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.2333,
+    "longitude": 7.66667
+  },
+  {
+    "name": "Musawa",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.12944444,
+    "longitude": 7.66888889
+  },
+  {
+    "name": "Rimi",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.85,
+    "longitude": 7.71555556
+  },
+  {
+    "name": "Sabuwa",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.3,
+    "longitude": 7.11666667
+  },
+  {
+    "name": "Safana",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.5,
+    "longitude": 7.23333333
+  },
+  {
+    "name": "Sandamu",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.93333333,
+    "longitude": 8.36666667
+  },
+  {
+    "name": "Zango",
+    "state_code": "KT",
+    "state_name": "Katsina",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.93333333,
+    "longitude": 8.53333333
+  }
+]

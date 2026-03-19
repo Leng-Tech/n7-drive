@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Bade",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.86666667,
+    "longitude": 10.96666667
+  },
+  {
+    "name": "Bursari",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.75,
+    "longitude": 11.76666667
+  },
+  {
+    "name": "Damaturu",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.74444444,
+    "longitude": 11.96111111
+  },
+  {
+    "name": "Fika",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.41666667,
+    "longitude": 11.21666667
+  },
+  {
+    "name": "Fune",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.88333333,
+    "longitude": 11.9
+  },
+  {
+    "name": "Geidam",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.71666667,
+    "longitude": 12.03333333
+  },
+  {
+    "name": "Gujba",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.49777778,
+    "longitude": 11.93083333
+  },
+  {
+    "name": "Gulani",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11,
+    "longitude": 11.71666667
+  },
+  {
+    "name": "Jakusko",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.41666667,
+    "longitude": 10.93333333
+  },
+  {
+    "name": "Karasuwa",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13,
+    "longitude": 10.78333333
+  },
+  {
+    "name": "Machina",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.1,
+    "longitude": 10
+  },
+  {
+    "name": "Nangere",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.85,
+    "longitude": 10.96666667
+  },
+  {
+    "name": "Nguru",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.875,
+    "longitude": 10.458333
+  },
+  {
+    "name": "Potiskum",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.7092,
+    "longitude": 11.0694
+  },
+  {
+    "name": "Tarmuwa",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.2,
+    "longitude": 11.78333333
+  },
+  {
+    "name": "Yunusari",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.11666667,
+    "longitude": 11.73333333
+  },
+  {
+    "name": "Yusufari",
+    "state_code": "YO",
+    "state_name": "Yobe",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 13.18333333,
+    "longitude": 10.85
+  }
+]

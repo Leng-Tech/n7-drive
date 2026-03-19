@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Agaie",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.01666667,
+    "longitude": 6.31666667
+  },
+  {
+    "name": "Agwara",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.7,
+    "longitude": 4.58333333
+  },
+  {
+    "name": "Bida",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.08333333,
+    "longitude": 6.01666667
+  },
+  {
+    "name": "Borgu",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11,
+    "longitude": 3.5
+  },
+  {
+    "name": "Bosso",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.651457,
+    "longitude": 6.526626
+  },
+  {
+    "name": "Chanchaga",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.61388889,
+    "longitude": 6.55694444
+  },
+  {
+    "name": "Edati",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.05,
+    "longitude": 5.65
+  },
+  {
+    "name": "Gbako",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.26666667,
+    "longitude": 5.98333333
+  },
+  {
+    "name": "Gurara",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.35,
+    "longitude": 7.08333333
+  },
+  {
+    "name": "Katcha",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.15,
+    "longitude": 6.23333333
+  },
+  {
+    "name": "Kontagora",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.403,
+    "longitude": 5.473
+  },
+  {
+    "name": "Lapai",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.81666667,
+    "longitude": 6.68333333
+  },
+  {
+    "name": "Lavun",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.45,
+    "longitude": 5.63333333
+  },
+  {
+    "name": "Magama",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.46666667,
+    "longitude": 5.05
+  },
+  {
+    "name": "Mariga",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.7,
+    "longitude": 5.83333333
+  },
+  {
+    "name": "Mashegu",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.95,
+    "longitude": 5.21666667
+  },
+  {
+    "name": "Mokwa",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.2,
+    "longitude": 5.33333333
+  },
+  {
+    "name": "Munya",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.78333,
+    "longitude": 7.03333
+  },
+  {
+    "name": "Paikoro",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.43333,
+    "longitude": 6.63333
+  },
+  {
+    "name": "Rafi",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.18444444,
+    "longitude": 6.25333333
+  },
+  {
+    "name": "Rijau",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.1,
+    "longitude": 5.26666667
+  },
+  {
+    "name": "Shiroro",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.95694444,
+    "longitude": 6.83194444
+  },
+  {
+    "name": "Suleja",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.18333333,
+    "longitude": 7.18333333
+  },
+  {
+    "name": "Tafa",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.25,
+    "longitude": 7.25
+  },
+  {
+    "name": "Wushishi",
+    "state_code": "NI",
+    "state_name": "Niger",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.721763,
+    "longitude": 6.111317
+  }
+]

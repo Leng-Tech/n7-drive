@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Alkaleri",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.88333333,
+    "longitude": 10.5
+  },
+  {
+    "name": "Bauchi",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.31583333,
+    "longitude": 9.84416667
+  },
+  {
+    "name": "Bogoro",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.66852,
+    "longitude": 9.60395
+  },
+  {
+    "name": "Damban",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.62592,
+    "longitude": 10.78622
+  },
+  {
+    "name": "Darazo",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11,
+    "longitude": 10.41
+  },
+  {
+    "name": "Dass",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.126111,
+    "longitude": 9.484704
+  },
+  {
+    "name": "Gamawa",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.133333,
+    "longitude": 10.533333
+  },
+  {
+    "name": "Ganjuwa",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.868124,
+    "longitude": 10.165283
+  },
+  {
+    "name": "Giade",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.390251,
+    "longitude": 10.199128
+  },
+  {
+    "name": "Itas/Gadau",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.86666667,
+    "longitude": 9.96666667
+  },
+  {
+    "name": "Jama'are",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.669111,
+    "longitude": 9.928958
+  },
+  {
+    "name": "Katagum",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.28333333,
+    "longitude": 10.35
+  },
+  {
+    "name": "Kirfi",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.4,
+    "longitude": 10.4
+  },
+  {
+    "name": "Misau",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.313599,
+    "longitude": 10.463126
+  },
+  {
+    "name": "Ningi",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.06666667,
+    "longitude": 9.56666667
+  },
+  {
+    "name": "Shira",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.50416667,
+    "longitude": 10.01722222
+  },
+  {
+    "name": "Tafawa Balewa",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 9.759094,
+    "longitude": 9.553127
+  },
+  {
+    "name": "Toro",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 10.059364,
+    "longitude": 9.071724
+  },
+  {
+    "name": "Warji",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.18333333,
+    "longitude": 9.75
+  },
+  {
+    "name": "Zaki",
+    "state_code": "BA",
+    "state_name": "Bauchi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.13333333,
+    "longitude": 10.28333333
+  }
+]

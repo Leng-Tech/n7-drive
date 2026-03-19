@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Adavi",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.66666667,
+    "longitude": 6.45
+  },
+  {
+    "name": "Ajaokuta",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.55611111,
+    "longitude": 6.655
+  },
+  {
+    "name": "Ankpa",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.43333333,
+    "longitude": 7.63333333
+  },
+  {
+    "name": "Bassa",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.9,
+    "longitude": 7.05
+  },
+  {
+    "name": "Dekina",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.58333333,
+    "longitude": 7.2
+  },
+  {
+    "name": "Ibaji",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 6.86666667,
+    "longitude": 6.8
+  },
+  {
+    "name": "Idah",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.08333333,
+    "longitude": 6.75
+  },
+  {
+    "name": "Igalamela Odolu",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.08333333,
+    "longitude": 7.08333333
+  },
+  {
+    "name": "Ijumu",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.85,
+    "longitude": 5.96666667
+  },
+  {
+    "name": "Kabba/Bunu",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.11666667,
+    "longitude": 6.15
+  },
+  {
+    "name": "Kogi",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.5,
+    "longitude": 6.7
+  },
+  {
+    "name": "Lokoja",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.80194444,
+    "longitude": 6.74416667
+  },
+  {
+    "name": "Mopa-Muro",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.09722222,
+    "longitude": 5.89583333
+  },
+  {
+    "name": "Ofu",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.33333333,
+    "longitude": 7.08333333
+  },
+  {
+    "name": "Ogori/Magongo",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.483333,
+    "longitude": 6.216667
+  },
+  {
+    "name": "Okehi",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.7,
+    "longitude": 6.3
+  },
+  {
+    "name": "Okene",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.55,
+    "longitude": 6.23333333
+  },
+  {
+    "name": "Olamaboro",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.18333,
+    "longitude": 7.56667
+  },
+  {
+    "name": "Omala",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 7.81666667,
+    "longitude": 7.51666667
+  },
+  {
+    "name": "Yagba East",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.16666667,
+    "longitude": 5.7
+  },
+  {
+    "name": "Yagba West",
+    "state_code": "KO",
+    "state_name": "Kogi",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 8.25,
+    "longitude": 5.55
+  }
+]

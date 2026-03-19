@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Auyo",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.36,
+    "longitude": 9.98555556
+  },
+  {
+    "name": "Babura",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.63333333,
+    "longitude": 8.96666667
+  },
+  {
+    "name": "Biriniwa",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.7833,
+    "longitude": 10.2333
+  },
+  {
+    "name": "Birnin Kudu",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.45,
+    "longitude": 9.475
+  },
+  {
+    "name": "Buji",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.66371,
+    "longitude": 9.730518
+  },
+  {
+    "name": "Dutse",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.70111111,
+    "longitude": 9.34194444
+  },
+  {
+    "name": "Gagarawa",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.407564,
+    "longitude": 9.528397
+  },
+  {
+    "name": "Garki",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.432259,
+    "longitude": 9.181244
+  },
+  {
+    "name": "Gumel",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.62833333,
+    "longitude": 9.38972222
+  },
+  {
+    "name": "Guri",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.633757685656763,
+    "longitude": 10.481106764515644
+  },
+  {
+    "name": "Gwaram",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.185833,
+    "longitude": 9.968611
+  },
+  {
+    "name": "Gwiwa",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.736914,
+    "longitude": 8.271095
+  },
+  {
+    "name": "Hadejia",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.45,
+    "longitude": 10.04
+  },
+  {
+    "name": "Jahun",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.06666667,
+    "longitude": 9.63333333
+  },
+  {
+    "name": "Kafin Hausa",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.981763,
+    "longitude": 8.496467
+  },
+  {
+    "name": "Kaugama",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.4833,
+    "longitude": 9.73333
+  },
+  {
+    "name": "Kazaure",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.6528,
+    "longitude": 8.41194
+  },
+  {
+    "name": "Kiri Kasama",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.594408,
+    "longitude": 10.214753
+  },
+  {
+    "name": "Kiyawa",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 11.78472222,
+    "longitude": 9.60833333
+  },
+  {
+    "name": "Maigatari",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.804038,
+    "longitude": 9.448007
+  },
+  {
+    "name": "Malam Madori",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.554071,
+    "longitude": 10.028136
+  },
+  {
+    "name": "Miga",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.23333333,
+    "longitude": 9.71666667
+  },
+  {
+    "name": "Ringim",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.28333333,
+    "longitude": 9.46666667
+  },
+  {
+    "name": "Roni",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.566481,
+    "longitude": 8.347088
+  },
+  {
+    "name": "Sule Tankarkar",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.65577,
+    "longitude": 9.18751
+  },
+  {
+    "name": "Taura",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.2724893,
+    "longitude": 9.36241882485775
+  },
+  {
+    "name": "Yankwashi",
+    "state_code": "JI",
+    "state_name": "Jigawa",
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "latitude": 12.743623,
+    "longitude": 8.53892
+  }
+]
