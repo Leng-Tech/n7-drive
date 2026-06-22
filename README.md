@@ -1,3 +1,3 @@
 # n6-drive
 
-Bootstrap repository for n7-drive.
+Canonical civic reference data now lives under `regions/nigeria/`.

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "party:a",
+    "name": "Accord",
+    "shortName": "A",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:aa",
+    "name": "Action Alliance",
+    "shortName": "AA",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:aac",
+    "name": "African Action Congress",
+    "shortName": "AAC",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:adc",
+    "name": "African Democratic Congress",
+    "shortName": "ADC",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:adp",
+    "name": "Action Democratic Party",
+    "shortName": "ADP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:apc",
+    "name": "All Progressives Congress",
+    "shortName": "APC",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:apga",
+    "name": "All Progressives Grand Alliance",
+    "shortName": "APGA",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:apm",
+    "name": "Allied Peoples Movement",
+    "shortName": "APM",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:app",
+    "name": "Action Peoples Party",
+    "shortName": "APP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:bp",
+    "name": "Boot Party",
+    "shortName": "BP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:lp",
+    "name": "Labour Party",
+    "shortName": "LP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:nrm",
+    "name": "National Rescue Movement",
+    "shortName": "NRM",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:nnpp",
+    "name": "New Nigeria Peoples Party",
+    "shortName": "NNPP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:pdp",
+    "name": "Peoples Democratic Party",
+    "shortName": "PDP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:prp",
+    "name": "Peoples Redemption Party",
+    "shortName": "PRP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:sdp",
+    "name": "Social Democratic Party",
+    "shortName": "SDP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:ypp",
+    "name": "Young Progressive Party",
+    "shortName": "YPP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:yp",
+    "name": "Youth Party",
+    "shortName": "YP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:zlp",
+    "name": "Zenith Labour Party",
+    "shortName": "ZLP",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:dla",
+    "name": "DEMOCRATIC LEADERSHIP ALLIANCE",
+    "shortName": "DLA",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "party:ndc",
+    "name": "NIGERIA DEMOCRATIC CONGRESS",
+    "shortName": "NDC",
+    "status": "ACTIVE",
+    "logoUrl": null,
+    "sources": [
+      {
+        "sourceId": "source:inec:political-parties",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

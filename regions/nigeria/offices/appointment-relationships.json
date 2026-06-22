@@ -1,0 +1,40 @@
+[
+  {
+    "id": "rel:appointment:president:minister",
+    "fromOfficeId": "office:president",
+    "toOfficeId": "office:minister",
+    "relationshipType": "APPOINTS",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "rel:appointment:governor:commissioner",
+    "fromOfficeId": "office:governor",
+    "toOfficeId": "office:commissioner",
+    "relationshipType": "APPOINTS",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

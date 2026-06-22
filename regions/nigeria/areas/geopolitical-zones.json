@@ -1,0 +1,207 @@
+[
+  {
+    "id": "area:zone:north-central",
+    "type": "GEO_POLITICAL_ZONE",
+    "name": "North Central",
+    "officialName": "North Central geopolitical zone",
+    "code": "NORTH_CENTRAL",
+    "country": "NG",
+    "parentId": "area:country:nigeria",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "stateCodes": [
+        "BE",
+        "KO",
+        "KW",
+        "NA",
+        "NI",
+        "PL",
+        "FC"
+      ]
+    }
+  },
+  {
+    "id": "area:zone:north-east",
+    "type": "GEO_POLITICAL_ZONE",
+    "name": "North East",
+    "officialName": "North East geopolitical zone",
+    "code": "NORTH_EAST",
+    "country": "NG",
+    "parentId": "area:country:nigeria",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "stateCodes": [
+        "AD",
+        "BA",
+        "BO",
+        "GO",
+        "TA",
+        "YO"
+      ]
+    }
+  },
+  {
+    "id": "area:zone:north-west",
+    "type": "GEO_POLITICAL_ZONE",
+    "name": "North West",
+    "officialName": "North West geopolitical zone",
+    "code": "NORTH_WEST",
+    "country": "NG",
+    "parentId": "area:country:nigeria",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "stateCodes": [
+        "JI",
+        "KD",
+        "KN",
+        "KT",
+        "KE",
+        "SO",
+        "ZA"
+      ]
+    }
+  },
+  {
+    "id": "area:zone:south-east",
+    "type": "GEO_POLITICAL_ZONE",
+    "name": "South East",
+    "officialName": "South East geopolitical zone",
+    "code": "SOUTH_EAST",
+    "country": "NG",
+    "parentId": "area:country:nigeria",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "stateCodes": [
+        "AB",
+        "AN",
+        "EB",
+        "EN",
+        "IM"
+      ]
+    }
+  },
+  {
+    "id": "area:zone:south-south",
+    "type": "GEO_POLITICAL_ZONE",
+    "name": "South South",
+    "officialName": "South South geopolitical zone",
+    "code": "SOUTH_SOUTH",
+    "country": "NG",
+    "parentId": "area:country:nigeria",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "stateCodes": [
+        "AK",
+        "BY",
+        "CR",
+        "DE",
+        "ED",
+        "RI"
+      ]
+    }
+  },
+  {
+    "id": "area:zone:south-west",
+    "type": "GEO_POLITICAL_ZONE",
+    "name": "South West",
+    "officialName": "South West geopolitical zone",
+    "code": "SOUTH_WEST",
+    "country": "NG",
+    "parentId": "area:country:nigeria",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "stateCodes": [
+        "EK",
+        "LA",
+        "OG",
+        "ON",
+        "OS",
+        "OY"
+      ]
+    }
+  }
+]

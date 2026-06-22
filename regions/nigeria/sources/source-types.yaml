@@ -1,0 +1,27 @@
+- id: source-type:official
+  code: OFFICIAL
+  description: Published by an official government or electoral body.
+- id: source-type:legal
+  code: LEGAL
+  description: Constitution, statute, regulation, or court-backed legal text.
+- id: source-type:electoral-body
+  code: ELECTORAL_BODY
+  description: Published by INEC, SIEC, or another election-management body.
+- id: source-type:government-portal
+  code: GOVERNMENT_PORTAL
+  description: Government web portal or administrative registry.
+- id: source-type:ngo
+  code: NGO
+  description: Civil society or non-governmental source.
+- id: source-type:academic
+  code: ACADEMIC
+  description: Academic or research source.
+- id: source-type:media
+  code: MEDIA
+  description: Media source.
+- id: source-type:community-contributed
+  code: COMMUNITY_CONTRIBUTED
+  description: Contributor-provided data that needs official verification.
+- id: source-type:unknown
+  code: UNKNOWN
+  description: Unknown or not yet classified source.

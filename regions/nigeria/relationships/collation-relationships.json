@@ -1,0 +1,94 @@
+[
+  {
+    "id": "rel:collation:presidential:polling-unit-to-ward",
+    "fromAreaType": "POLLING_UNIT",
+    "toAreaType": "WARD",
+    "relationshipType": "COLLATES_TO",
+    "relationshipContext": "COLLATION",
+    "electionTypeId": "election-type:presidential",
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {
+      "order": 1
+    }
+  },
+  {
+    "id": "rel:collation:presidential:ward-to-lga",
+    "fromAreaType": "WARD",
+    "toAreaType": "LGA",
+    "relationshipType": "COLLATES_TO",
+    "relationshipContext": "COLLATION",
+    "electionTypeId": "election-type:presidential",
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {
+      "order": 2
+    }
+  },
+  {
+    "id": "rel:collation:presidential:lga-to-state",
+    "fromAreaType": "LGA",
+    "toAreaType": "STATE",
+    "relationshipType": "COLLATES_TO",
+    "relationshipContext": "COLLATION",
+    "electionTypeId": "election-type:presidential",
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {
+      "order": 3
+    }
+  },
+  {
+    "id": "rel:collation:presidential:state-to-country",
+    "fromAreaType": "STATE",
+    "toAreaType": "COUNTRY",
+    "relationshipType": "COLLATES_TO",
+    "relationshipContext": "COLLATION",
+    "electionTypeId": "election-type:presidential",
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {
+      "order": 4
+    }
+  }
+]

@@ -1,0 +1,948 @@
+[
+  {
+    "id": "office:president",
+    "title": "President",
+    "level": "FEDERAL",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": "election-type:presidential",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:vice-president",
+    "title": "Vice President",
+    "level": "FEDERAL",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": "election-type:presidential",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:senator",
+    "title": "Senator",
+    "level": "FEDERAL",
+    "officeType": "ELECTED_LEGISLATIVE",
+    "areaTypeScope": "SENATORIAL_DISTRICT",
+    "electionTypeId": "election-type:senatorial",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:house-of-reps-member",
+    "title": "House of Representatives Member",
+    "level": "FEDERAL",
+    "officeType": "ELECTED_LEGISLATIVE",
+    "areaTypeScope": "FEDERAL_CONSTITUENCY",
+    "electionTypeId": "election-type:house-of-representatives",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:governor",
+    "title": "Governor",
+    "level": "STATE",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "STATE",
+    "electionTypeId": "election-type:governorship",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:deputy-governor",
+    "title": "Deputy Governor",
+    "level": "STATE",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "STATE",
+    "electionTypeId": "election-type:governorship",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:state-house-of-assembly-member",
+    "title": "State House of Assembly Member",
+    "level": "STATE",
+    "officeType": "ELECTED_LEGISLATIVE",
+    "areaTypeScope": "STATE_CONSTITUENCY",
+    "electionTypeId": "election-type:state-house-of-assembly",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:lga-chairman",
+    "title": "LGA Chairman",
+    "level": "LOCAL",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "LGA",
+    "electionTypeId": "election-type:lga-chairman",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:vice-chairman",
+    "title": "Vice Chairman",
+    "level": "LOCAL",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "LGA",
+    "electionTypeId": "election-type:lga-chairman",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:councillor",
+    "title": "Councillor",
+    "level": "LOCAL",
+    "officeType": "ELECTED_LEGISLATIVE",
+    "areaTypeScope": "WARD",
+    "electionTypeId": "election-type:lga-councillor",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:fct-area-council-chairman",
+    "title": "FCT Area Council Chairman",
+    "level": "LOCAL",
+    "officeType": "ELECTED_EXECUTIVE",
+    "areaTypeScope": "AREA_COUNCIL",
+    "electionTypeId": "election-type:fct-area-council-chairman",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:fct-area-council-councillor",
+    "title": "FCT Area Council Councillor",
+    "level": "LOCAL",
+    "officeType": "ELECTED_LEGISLATIVE",
+    "areaTypeScope": "WARD",
+    "electionTypeId": "election-type:fct-area-council-councillor",
+    "isElective": true,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:minister",
+    "title": "Minister",
+    "level": "FEDERAL",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:minister-of-state",
+    "title": "Minister of State",
+    "level": "FEDERAL",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:secretary-to-government-of-federation",
+    "title": "Secretary to the Government of the Federation",
+    "level": "FEDERAL",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:head-of-federal-agency",
+    "title": "Head of Federal Agency",
+    "level": "FEDERAL",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:special-adviser",
+    "title": "Special Adviser",
+    "level": "ADMINISTRATIVE",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:senior-special-assistant",
+    "title": "Senior Special Assistant",
+    "level": "ADMINISTRATIVE",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:permanent-secretary",
+    "title": "Permanent Secretary",
+    "level": "ADMINISTRATIVE",
+    "officeType": "ADMINISTRATIVE",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:commissioner",
+    "title": "Commissioner",
+    "level": "STATE",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "STATE",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:head-of-state-agency",
+    "title": "Head of State Agency",
+    "level": "STATE",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "STATE",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:secretary-to-state-government",
+    "title": "Secretary to the State Government",
+    "level": "STATE",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "STATE",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:chief-of-staff",
+    "title": "Chief of Staff",
+    "level": "ADMINISTRATIVE",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "STATE",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:secretary-to-local-government",
+    "title": "Secretary to Local Government",
+    "level": "LOCAL",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "LGA",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:supervisory-councillor",
+    "title": "Supervisory Councillor",
+    "level": "LOCAL",
+    "officeType": "APPOINTED_EXECUTIVE",
+    "areaTypeScope": "LGA",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:local-government-administrative-officer",
+    "title": "Local Government Administrative Officer",
+    "level": "LOCAL",
+    "officeType": "ADMINISTRATIVE",
+    "areaTypeScope": "LGA",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:department-head",
+    "title": "Department Head",
+    "level": "LOCAL",
+    "officeType": "ADMINISTRATIVE",
+    "areaTypeScope": "LGA",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": true,
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:presiding-officer",
+    "title": "Presiding Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:assistant-presiding-officer",
+    "title": "Assistant Presiding Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:ward-collation-officer",
+    "title": "Registration Area / Ward Collation Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "WARD",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:lga-collation-officer",
+    "title": "LGA Collation Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "LGA",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:state-collation-officer",
+    "title": "State Collation Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "STATE",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:returning-officer",
+    "title": "Returning Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "CONSTITUENCY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:chief-returning-officer",
+    "title": "Chief Returning Officer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "ELECTION_OFFICIAL",
+    "areaTypeScope": "COUNTRY",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:polling-agent",
+    "title": "Polling Agent",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "PARTY_AGENT",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:party-agent",
+    "title": "Party Agent",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "PARTY_AGENT",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:security-agent",
+    "title": "Security Agent",
+    "level": "SECURITY",
+    "officeType": "SECURITY_ACTOR",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:observer",
+    "title": "Observer",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "OBSERVER_ACTOR",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:media-representative",
+    "title": "Media Representative",
+    "level": "ELECTION_MANAGEMENT",
+    "officeType": "MEDIA_ACTOR",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office:voter",
+    "title": "Voter",
+    "level": "ADMINISTRATIVE",
+    "officeType": "ADMINISTRATIVE",
+    "areaTypeScope": "POLLING_UNIT",
+    "electionTypeId": null,
+    "isElective": false,
+    "isAppointed": false,
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Role should be cross-checked against the latest INEC manuals."
+      ]
+    },
+    "metadata": {}
+  }
+]

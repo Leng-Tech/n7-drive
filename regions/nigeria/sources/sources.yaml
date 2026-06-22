@@ -1,0 +1,80 @@
+- id: source:inec:polling-units
+  name: INEC Polling Units
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://www.inecnigeria.org/polling-units/
+  trustLevel: HIGH
+  refreshCadence: MONTHLY
+  notes: Used for State, LGA, Ward, and Polling Unit hierarchy.
+- id: source:inec:election-results
+  name: INEC Election Results
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://inecnigeria.org/election-results/
+  trustLevel: HIGH
+  refreshCadence: EVENT_BASED
+  notes: Used for INEC-published election categories.
+- id: source:inec:irev
+  name: INEC IReV
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL_TRANSPARENCY_PORTAL
+  url: https://www.inecelectionresults.ng/
+  trustLevel: HIGH
+  refreshCadence: EVENT_BASED
+  notes: Transparency portal for viewing election result records by election type.
+- id: source:inec:political-parties
+  name: INEC List of Political Parties
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://inecnigeria.org/list-of-political-parties/
+  trustLevel: HIGH
+  refreshCadence: MONTHLY
+  notes: Used for the registered political party seed list.
+- id: source:inec:collation-and-declaration
+  name: INEC Collation and Declaration of Results
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://www.inecnigeria.org/collation-and-declaration-of-results/
+  trustLevel: HIGH
+  refreshCadence: ON_GUIDELINE_CHANGE
+  notes: Used for collation levels and route examples.
+- id: source:inec:about
+  name: INEC About the Commission
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://www.inecnigeria.org/the-commission/
+  trustLevel: HIGH
+  refreshCadence: ON_CHANGE
+  notes: Used for election-management body metadata.
+- id: source:inec:election-officials
+  name: INEC Election Official Role References
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://www.inecnigeria.org/
+  trustLevel: MEDIUM
+  refreshCadence: ON_GUIDELINE_CHANGE
+  notes: Placeholder source pointer for election-day role names; replace with specific manual URLs.
+- id: source:inec:constituency-data
+  name: INEC Constituency Data
+  publisher: Independent National Electoral Commission
+  type: OFFICIAL
+  url: https://www.inecnigeria.org/
+  trustLevel: MEDIUM
+  refreshCadence: ON_BOUNDARY_CHANGE
+  notes: Placeholder source pointer for future constituency boundary mappings.
+- id: source:constitution:1999-as-amended
+  name: Constitution of the Federal Republic of Nigeria 1999 as amended
+  publisher: Federal Republic of Nigeria
+  type: LEGAL
+  url: null
+  trustLevel: HIGH
+  refreshCadence: ON_AMENDMENT
+  notes: Used for constitutional offices, INEC, and elected local government council basis.
+- id: source:community:existing-repo-seed
+  name: Existing n6-drive Regions Seed Data
+  publisher: Leng-Tech n6-drive repository
+  type: COMMUNITY_CONTRIBUTED
+  url: null
+  trustLevel: MEDIUM
+  refreshCadence: MANUAL
+  notes: Migrated from the previous flat regions/states.json and regions/lgas.json files.

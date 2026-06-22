@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nigeria Civic Graph Collation Route",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "electionTypeId",
+      "steps",
+      "sources",
+      "quality",
+      "metadata"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "electionTypeId": {
+        "type": "string"
+      },
+      "steps": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "order",
+            "areaType",
+            "role"
+          ],
+          "properties": {
+            "order": {
+              "type": "integer"
+            },
+            "areaType": {
+              "type": "string"
+            },
+            "role": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "sources": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "sourceId",
+            "confidence"
+          ],
+          "properties": {
+            "sourceId": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string",
+              "enum": [
+                "HIGH",
+                "MEDIUM",
+                "LOW",
+                "UNVERIFIED"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "quality": {
+        "type": "object",
+        "required": [
+          "status",
+          "verificationLevel",
+          "lastVerifiedAt",
+          "issues"
+        ],
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "DRAFT",
+              "SOURCE_MATCHED",
+              "VERIFIED",
+              "NEEDS_REVIEW",
+              "CONFLICTED",
+              "DEPRECATED"
+            ]
+          },
+          "verificationLevel": {
+            "type": "string"
+          },
+          "lastVerifiedAt": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "issues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "metadata": {
+        "type": "object"
+      }
+    },
+    "additionalProperties": false
+  }
+}
