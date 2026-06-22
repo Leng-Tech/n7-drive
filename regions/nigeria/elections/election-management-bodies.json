@@ -1,0 +1,52 @@
+[
+  {
+    "id": "emb:inec",
+    "name": "Independent National Electoral Commission",
+    "shortName": "INEC",
+    "level": "FEDERAL",
+    "jurisdictionAreaId": "area:country:nigeria",
+    "description": "Nigeria's national election management body.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      },
+      {
+        "sourceId": "source:inec:about",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "emb:siec:generic",
+    "name": "State Independent Electoral Commission",
+    "shortName": "SIEC",
+    "level": "STATE",
+    "jurisdictionAreaId": null,
+    "description": "Generic model for state electoral bodies that manage local government elections; state-specific records should be added after source verification.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "TODO_SOURCE_REQUIRED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Create state-specific SIEC records from state legal or government sources."
+      ]
+    },
+    "metadata": {
+      "generic": true
+    }
+  }
+]

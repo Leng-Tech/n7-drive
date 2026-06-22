@@ -1,0 +1,164 @@
+[
+  {
+    "id": "office-type:elected-executive",
+    "name": "Elected Executive",
+    "code": "ELECTED_EXECUTIVE",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:elected-legislative",
+    "name": "Elected Legislative",
+    "code": "ELECTED_LEGISLATIVE",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:appointed-executive",
+    "name": "Appointed Executive",
+    "code": "APPOINTED_EXECUTIVE",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:administrative",
+    "name": "Administrative",
+    "code": "ADMINISTRATIVE",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:election-official",
+    "name": "Election Official",
+    "code": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:party-agent",
+    "name": "Party Agent",
+    "code": "PARTY_AGENT",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:security-actor",
+    "name": "Security Actor",
+    "code": "SECURITY_ACTOR",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:observer-actor",
+    "name": "Observer Actor",
+    "code": "OBSERVER_ACTOR",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-type:media-actor",
+    "name": "Media Actor",
+    "code": "MEDIA_ACTOR",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "election-type:presidential",
+    "code": "PRESIDENTIAL",
+    "name": "Presidential Election",
+    "level": "FEDERAL",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:president",
+      "office:vice-president"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "COUNTRY",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:senatorial",
+    "code": "SENATORIAL",
+    "name": "Senatorial Election",
+    "level": "FEDERAL",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:senator"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "SENATORIAL_DISTRICT",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:house-of-representatives",
+    "code": "HOUSE_OF_REPRESENTATIVES",
+    "name": "House of Representatives Election",
+    "level": "FEDERAL",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:house-of-reps-member"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "FEDERAL_CONSTITUENCY",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:governorship",
+    "code": "GOVERNORSHIP",
+    "name": "Governorship Election",
+    "level": "STATE",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:governor",
+      "office:deputy-governor"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "STATE",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:state-house-of-assembly",
+    "code": "STATE_HOUSE_OF_ASSEMBLY",
+    "name": "State House of Assembly Election",
+    "level": "STATE",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:state-house-of-assembly-member"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "STATE_CONSTITUENCY",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:fct-area-council-chairman",
+    "code": "FCT_AREA_COUNCIL_CHAIRMAN",
+    "name": "FCT Area Council Chairman Election",
+    "level": "LOCAL",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:fct-area-council-chairman"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "AREA_COUNCIL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:fct-area-council-councillor",
+    "code": "FCT_AREA_COUNCIL_COUNCILLOR",
+    "name": "FCT Area Council Councillor Election",
+    "level": "LOCAL",
+    "managedBy": "emb:inec",
+    "electsOfficeIds": [
+      "office:fct-area-council-councillor"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "WARD",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-results",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:lga-chairman",
+    "code": "LGA_CHAIRMAN",
+    "name": "LGA Chairman Election",
+    "level": "LOCAL",
+    "managedBy": "emb:siec:generic",
+    "electsOfficeIds": [
+      "office:lga-chairman",
+      "office:vice-chairman"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "LGA",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "election-type:lga-councillor",
+    "code": "LGA_COUNCILLOR",
+    "name": "LGA Councillor Election",
+    "level": "LOCAL",
+    "managedBy": "emb:siec:generic",
+    "electsOfficeIds": [
+      "office:councillor"
+    ],
+    "votingAreaType": "POLLING_UNIT",
+    "resultDeclarationAreaType": "WARD",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

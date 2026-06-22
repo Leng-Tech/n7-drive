@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nigeria Civic Graph Election Type",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "code",
+      "name",
+      "level",
+      "managedBy",
+      "electsOfficeIds",
+      "votingAreaType",
+      "resultDeclarationAreaType",
+      "sources",
+      "quality",
+      "metadata"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "code": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "level": {
+        "type": "string"
+      },
+      "managedBy": {
+        "type": "string"
+      },
+      "electsOfficeIds": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "votingAreaType": {
+        "type": "string"
+      },
+      "resultDeclarationAreaType": {
+        "type": "string"
+      },
+      "sources": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "sourceId",
+            "confidence"
+          ],
+          "properties": {
+            "sourceId": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string",
+              "enum": [
+                "HIGH",
+                "MEDIUM",
+                "LOW",
+                "UNVERIFIED"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "quality": {
+        "type": "object",
+        "required": [
+          "status",
+          "verificationLevel",
+          "lastVerifiedAt",
+          "issues"
+        ],
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "DRAFT",
+              "SOURCE_MATCHED",
+              "VERIFIED",
+              "NEEDS_REVIEW",
+              "CONFLICTED",
+              "DEPRECATED"
+            ]
+          },
+          "verificationLevel": {
+            "type": "string"
+          },
+          "lastVerifiedAt": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "issues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "metadata": {
+        "type": "object"
+      }
+    },
+    "additionalProperties": false
+  }
+}

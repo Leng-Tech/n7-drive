@@ -1,0 +1,328 @@
+[
+  {
+    "id": "collation-route:presidential",
+    "electionTypeId": "election-type:presidential",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "LGA",
+        "role": "LGA Collation Officer"
+      },
+      {
+        "order": 4,
+        "areaType": "STATE",
+        "role": "State Collation Officer"
+      },
+      {
+        "order": 5,
+        "areaType": "COUNTRY",
+        "role": "Chief Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:governorship",
+    "electionTypeId": "election-type:governorship",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "LGA",
+        "role": "LGA Collation Officer"
+      },
+      {
+        "order": 4,
+        "areaType": "STATE",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:senatorial",
+    "electionTypeId": "election-type:senatorial",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "LGA",
+        "role": "LGA Collation Officer"
+      },
+      {
+        "order": 4,
+        "areaType": "SENATORIAL_DISTRICT",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:house-of-representatives",
+    "electionTypeId": "election-type:house-of-representatives",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "LGA",
+        "role": "LGA Collation Officer"
+      },
+      {
+        "order": 4,
+        "areaType": "FEDERAL_CONSTITUENCY",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:state-house-of-assembly",
+    "electionTypeId": "election-type:state-house-of-assembly",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "LGA",
+        "role": "LGA Collation Officer"
+      },
+      {
+        "order": 4,
+        "areaType": "STATE_CONSTITUENCY",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:fct-area-council-chairman",
+    "electionTypeId": "election-type:fct-area-council-chairman",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "AREA_COUNCIL",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:fct-area-council-councillor",
+    "electionTypeId": "election-type:fct-area-council-councillor",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:lga-chairman",
+    "electionTypeId": "election-type:lga-chairman",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Registration Area / Ward Collation Officer"
+      },
+      {
+        "order": 3,
+        "areaType": "LGA",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "collation-route:lga-councillor",
+    "electionTypeId": "election-type:lga-councillor",
+    "steps": [
+      {
+        "order": 1,
+        "areaType": "POLLING_UNIT",
+        "role": "Presiding Officer"
+      },
+      {
+        "order": 2,
+        "areaType": "WARD",
+        "role": "Returning Officer"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "source:inec:collation-and-declaration",
+        "confidence": "HIGH"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_MATCHED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

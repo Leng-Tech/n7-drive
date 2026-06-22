@@ -1,0 +1,222 @@
+[
+  {
+    "id": "actor:voter",
+    "name": "Voter",
+    "type": "CITIZEN",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:presiding-officer",
+    "name": "Presiding Officer",
+    "type": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:assistant-presiding-officer",
+    "name": "Assistant Presiding Officer",
+    "type": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:ward-collation-officer",
+    "name": "Registration Area / Ward Collation Officer",
+    "type": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:lga-collation-officer",
+    "name": "LGA Collation Officer",
+    "type": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:state-collation-officer",
+    "name": "State Collation Officer",
+    "type": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:returning-officer",
+    "name": "Returning Officer",
+    "type": "ELECTION_OFFICIAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:party-agent",
+    "name": "Party Agent",
+    "type": "PARTY_AGENT",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:security-agent",
+    "name": "Security Agent",
+    "type": "SECURITY_ACTOR",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:observer",
+    "name": "Observer",
+    "type": "OBSERVER_ACTOR",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  },
+  {
+    "id": "actor:media-representative",
+    "name": "Media Representative",
+    "type": "MEDIA_ACTOR",
+    "sources": [
+      {
+        "sourceId": "source:inec:election-officials",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Cross-check against latest INEC manuals before live use."
+      ]
+    },
+    "metadata": {}
+  }
+]

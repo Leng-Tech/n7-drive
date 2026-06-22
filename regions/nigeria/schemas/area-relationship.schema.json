@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nigeria Civic Graph Area Relationship",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "relationshipType",
+      "relationshipContext",
+      "sources",
+      "quality",
+      "metadata"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "fromAreaId": {
+        "type": "string"
+      },
+      "toAreaId": {
+        "type": "string"
+      },
+      "fromAreaType": {
+        "type": "string"
+      },
+      "toAreaType": {
+        "type": "string"
+      },
+      "relationshipType": {
+        "type": "string",
+        "enum": [
+          "BELONGS_TO",
+          "CONTAINS",
+          "PART_OF",
+          "COLLATES_TO",
+          "REPRESENTED_BY_OFFICE",
+          "MANAGED_BY",
+          "HAS_ELECTION",
+          "HAS_OFFICE",
+          "OVERLAPS_WITH"
+        ]
+      },
+      "relationshipContext": {
+        "type": "string",
+        "enum": [
+          "ADMINISTRATIVE",
+          "ELECTORAL",
+          "COLLATION",
+          "REPRESENTATION",
+          "LEGAL",
+          "OPERATIONAL"
+        ]
+      },
+      "electionTypeId": {
+        "type": "string"
+      },
+      "sources": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "sourceId",
+            "confidence"
+          ],
+          "properties": {
+            "sourceId": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string",
+              "enum": [
+                "HIGH",
+                "MEDIUM",
+                "LOW",
+                "UNVERIFIED"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "quality": {
+        "type": "object",
+        "required": [
+          "status",
+          "verificationLevel",
+          "lastVerifiedAt",
+          "issues"
+        ],
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "DRAFT",
+              "SOURCE_MATCHED",
+              "VERIFIED",
+              "NEEDS_REVIEW",
+              "CONFLICTED",
+              "DEPRECATED"
+            ]
+          },
+          "verificationLevel": {
+            "type": "string"
+          },
+          "lastVerifiedAt": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "issues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "metadata": {
+        "type": "object"
+      }
+    },
+    "additionalProperties": false
+  }
+}

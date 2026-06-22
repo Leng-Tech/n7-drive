@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nigeria Civic Graph Office",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "title",
+      "level",
+      "officeType",
+      "areaTypeScope",
+      "electionTypeId",
+      "isElective",
+      "isAppointed",
+      "sources",
+      "quality",
+      "metadata"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "title": {
+        "type": "string"
+      },
+      "level": {
+        "type": "string"
+      },
+      "officeType": {
+        "type": "string"
+      },
+      "areaTypeScope": {
+        "type": "string"
+      },
+      "electionTypeId": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "isElective": {
+        "type": "boolean"
+      },
+      "isAppointed": {
+        "type": "boolean"
+      },
+      "sources": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "sourceId",
+            "confidence"
+          ],
+          "properties": {
+            "sourceId": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string",
+              "enum": [
+                "HIGH",
+                "MEDIUM",
+                "LOW",
+                "UNVERIFIED"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "quality": {
+        "type": "object",
+        "required": [
+          "status",
+          "verificationLevel",
+          "lastVerifiedAt",
+          "issues"
+        ],
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "DRAFT",
+              "SOURCE_MATCHED",
+              "VERIFIED",
+              "NEEDS_REVIEW",
+              "CONFLICTED",
+              "DEPRECATED"
+            ]
+          },
+          "verificationLevel": {
+            "type": "string"
+          },
+          "lastVerifiedAt": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "issues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "metadata": {
+        "type": "object"
+      }
+    },
+    "additionalProperties": false
+  }
+}

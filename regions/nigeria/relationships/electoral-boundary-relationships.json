@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rel:electoral-boundary:example:lga-to-senatorial-district",
+    "fromAreaType": "LGA",
+    "toAreaType": "SENATORIAL_DISTRICT",
+    "relationshipType": "PART_OF",
+    "relationshipContext": "ELECTORAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:constituency-data",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "TODO_SOURCE_REQUIRED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Replace this type-level example with source-matched constituency mappings."
+      ]
+    },
+    "metadata": {
+      "exampleOnly": true
+    }
+  },
+  {
+    "id": "rel:electoral-boundary:example:ward-to-state-constituency",
+    "fromAreaType": "WARD",
+    "toAreaType": "STATE_CONSTITUENCY",
+    "relationshipType": "PART_OF",
+    "relationshipContext": "ELECTORAL",
+    "sources": [
+      {
+        "sourceId": "source:inec:constituency-data",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "TODO_SOURCE_REQUIRED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Replace this type-level example with source-matched constituency mappings."
+      ]
+    },
+    "metadata": {
+      "exampleOnly": true
+    }
+  }
+]

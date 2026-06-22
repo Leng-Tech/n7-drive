@@ -1,0 +1,182 @@
+[
+  {
+    "id": "office-scope:country",
+    "areaType": "COUNTRY",
+    "description": "Nationwide office or role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:state",
+    "areaType": "STATE",
+    "description": "State-level office or role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:fct",
+    "areaType": "FCT",
+    "description": "Federal Capital Territory office or role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:lga",
+    "areaType": "LGA",
+    "description": "Local Government Area office or role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:area-council",
+    "areaType": "AREA_COUNCIL",
+    "description": "FCT Area Council office or role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:ward",
+    "areaType": "WARD",
+    "description": "Ward or registration-area office or role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:polling-unit",
+    "areaType": "POLLING_UNIT",
+    "description": "Polling-unit election-day role.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:senatorial-district",
+    "areaType": "SENATORIAL_DISTRICT",
+    "description": "Senatorial district legislative representation.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:federal-constituency",
+    "areaType": "FEDERAL_CONSTITUENCY",
+    "description": "House of Representatives constituency.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "office-scope:state-constituency",
+    "areaType": "STATE_CONSTITUENCY",
+    "description": "State House of Assembly constituency.",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "result-level:polling-unit",
+    "areaType": "POLLING_UNIT",
+    "name": "Polling Unit Result",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:ward",
+    "areaType": "WARD",
+    "name": "Ward / Registration Area Collation",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:lga",
+    "areaType": "LGA",
+    "name": "LGA Collation",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:area-council",
+    "areaType": "AREA_COUNCIL",
+    "name": "Area Council Collation",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:state",
+    "areaType": "STATE",
+    "name": "State Collation",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:senatorial-district",
+    "areaType": "SENATORIAL_DISTRICT",
+    "name": "Senatorial District Declaration",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:federal-constituency",
+    "areaType": "FEDERAL_CONSTITUENCY",
+    "name": "Federal Constituency Declaration",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:state-constituency",
+    "areaType": "STATE_CONSTITUENCY",
+    "name": "State Constituency Declaration",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  },
+  {
+    "id": "result-level:country",
+    "areaType": "COUNTRY",
+    "name": "National Declaration",
+    "sources": [
+      {
+        "sourceId": "source:constitution:1999-as-amended",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "SOURCE_MATCHED",
+      "verificationLevel": "SOURCE_NAMED",
+      "lastVerifiedAt": null,
+      "issues": []
+    },
+    "metadata": {}
+  }
+]

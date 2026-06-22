@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "area:state:abia",
+    "type": "STATE",
+    "name": "Abia",
+    "officialName": "Abia State",
+    "code": "AB",
+    "country": "NG",
+    "parentId": "area:zone:south-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "AB",
+        "state_name": "Abia",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:adamawa",
+    "type": "STATE",
+    "name": "Adamawa",
+    "officialName": "Adamawa State",
+    "code": "AD",
+    "country": "NG",
+    "parentId": "area:zone:north-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "AD",
+        "state_name": "Adamawa",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:akwa-ibom",
+    "type": "STATE",
+    "name": "Akwa Ibom",
+    "officialName": "Akwa Ibom State",
+    "code": "AK",
+    "country": "NG",
+    "parentId": "area:zone:south-south",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "AK",
+        "state_name": "Akwa Ibom",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:anambra",
+    "type": "STATE",
+    "name": "Anambra",
+    "officialName": "Anambra State",
+    "code": "AN",
+    "country": "NG",
+    "parentId": "area:zone:south-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "AN",
+        "state_name": "Anambra",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:bauchi",
+    "type": "STATE",
+    "name": "Bauchi",
+    "officialName": "Bauchi State",
+    "code": "BA",
+    "country": "NG",
+    "parentId": "area:zone:north-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "BA",
+        "state_name": "Bauchi",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:bayelsa",
+    "type": "STATE",
+    "name": "Bayelsa",
+    "officialName": "Bayelsa State",
+    "code": "BY",
+    "country": "NG",
+    "parentId": "area:zone:south-south",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "BY",
+        "state_name": "Bayelsa",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:benue",
+    "type": "STATE",
+    "name": "Benue",
+    "officialName": "Benue State",
+    "code": "BE",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "BE",
+        "state_name": "Benue",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:borno",
+    "type": "STATE",
+    "name": "Borno",
+    "officialName": "Borno State",
+    "code": "BO",
+    "country": "NG",
+    "parentId": "area:zone:north-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "BO",
+        "state_name": "Borno",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:cross-river",
+    "type": "STATE",
+    "name": "Cross River",
+    "officialName": "Cross River State",
+    "code": "CR",
+    "country": "NG",
+    "parentId": "area:zone:south-south",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "CR",
+        "state_name": "Cross River",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:delta",
+    "type": "STATE",
+    "name": "Delta",
+    "officialName": "Delta State",
+    "code": "DE",
+    "country": "NG",
+    "parentId": "area:zone:south-south",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "DE",
+        "state_name": "Delta",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:ebonyi",
+    "type": "STATE",
+    "name": "Ebonyi",
+    "officialName": "Ebonyi State",
+    "code": "EB",
+    "country": "NG",
+    "parentId": "area:zone:south-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "EB",
+        "state_name": "Ebonyi",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:edo",
+    "type": "STATE",
+    "name": "Edo",
+    "officialName": "Edo State",
+    "code": "ED",
+    "country": "NG",
+    "parentId": "area:zone:south-south",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "ED",
+        "state_name": "Edo",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:ekiti",
+    "type": "STATE",
+    "name": "Ekiti",
+    "officialName": "Ekiti State",
+    "code": "EK",
+    "country": "NG",
+    "parentId": "area:zone:south-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "EK",
+        "state_name": "Ekiti",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:enugu",
+    "type": "STATE",
+    "name": "Enugu",
+    "officialName": "Enugu State",
+    "code": "EN",
+    "country": "NG",
+    "parentId": "area:zone:south-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "EN",
+        "state_name": "Enugu",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:fct:abuja",
+    "type": "FCT",
+    "name": "Federal Capital Territory",
+    "officialName": "Federal Capital Territory",
+    "code": "FC",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "FC",
+        "state_name": "Federal Capital Territory",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:gombe",
+    "type": "STATE",
+    "name": "Gombe",
+    "officialName": "Gombe State",
+    "code": "GO",
+    "country": "NG",
+    "parentId": "area:zone:north-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "GO",
+        "state_name": "Gombe",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:imo",
+    "type": "STATE",
+    "name": "Imo",
+    "officialName": "Imo State",
+    "code": "IM",
+    "country": "NG",
+    "parentId": "area:zone:south-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "IM",
+        "state_name": "Imo",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:jigawa",
+    "type": "STATE",
+    "name": "Jigawa",
+    "officialName": "Jigawa State",
+    "code": "JI",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "JI",
+        "state_name": "Jigawa",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:kaduna",
+    "type": "STATE",
+    "name": "Kaduna",
+    "officialName": "Kaduna State",
+    "code": "KD",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "KD",
+        "state_name": "Kaduna",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:kano",
+    "type": "STATE",
+    "name": "Kano",
+    "officialName": "Kano State",
+    "code": "KN",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "KN",
+        "state_name": "Kano",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:katsina",
+    "type": "STATE",
+    "name": "Katsina",
+    "officialName": "Katsina State",
+    "code": "KT",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "KT",
+        "state_name": "Katsina",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:kebbi",
+    "type": "STATE",
+    "name": "Kebbi",
+    "officialName": "Kebbi State",
+    "code": "KE",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "KE",
+        "state_name": "Kebbi",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:kogi",
+    "type": "STATE",
+    "name": "Kogi",
+    "officialName": "Kogi State",
+    "code": "KO",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "KO",
+        "state_name": "Kogi",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:kwara",
+    "type": "STATE",
+    "name": "Kwara",
+    "officialName": "Kwara State",
+    "code": "KW",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "KW",
+        "state_name": "Kwara",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:lagos",
+    "type": "STATE",
+    "name": "Lagos",
+    "officialName": "Lagos State",
+    "code": "LA",
+    "country": "NG",
+    "parentId": "area:zone:south-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "LA",
+        "state_name": "Lagos",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:nasarawa",
+    "type": "STATE",
+    "name": "Nasarawa",
+    "officialName": "Nasarawa State",
+    "code": "NA",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "NA",
+        "state_name": "Nasarawa",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:niger",
+    "type": "STATE",
+    "name": "Niger",
+    "officialName": "Niger State",
+    "code": "NI",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "NI",
+        "state_name": "Niger",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:ogun",
+    "type": "STATE",
+    "name": "Ogun",
+    "officialName": "Ogun State",
+    "code": "OG",
+    "country": "NG",
+    "parentId": "area:zone:south-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "OG",
+        "state_name": "Ogun",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:ondo",
+    "type": "STATE",
+    "name": "Ondo",
+    "officialName": "Ondo State",
+    "code": "ON",
+    "country": "NG",
+    "parentId": "area:zone:south-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "ON",
+        "state_name": "Ondo",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:osun",
+    "type": "STATE",
+    "name": "Osun",
+    "officialName": "Osun State",
+    "code": "OS",
+    "country": "NG",
+    "parentId": "area:zone:south-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "OS",
+        "state_name": "Osun",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:oyo",
+    "type": "STATE",
+    "name": "Oyo",
+    "officialName": "Oyo State",
+    "code": "OY",
+    "country": "NG",
+    "parentId": "area:zone:south-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "OY",
+        "state_name": "Oyo",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:plateau",
+    "type": "STATE",
+    "name": "Plateau",
+    "officialName": "Plateau State",
+    "code": "PL",
+    "country": "NG",
+    "parentId": "area:zone:north-central",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "PL",
+        "state_name": "Plateau",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:rivers",
+    "type": "STATE",
+    "name": "Rivers",
+    "officialName": "Rivers State",
+    "code": "RI",
+    "country": "NG",
+    "parentId": "area:zone:south-south",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "RI",
+        "state_name": "Rivers",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:sokoto",
+    "type": "STATE",
+    "name": "Sokoto",
+    "officialName": "Sokoto State",
+    "code": "SO",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "SO",
+        "state_name": "Sokoto",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:taraba",
+    "type": "STATE",
+    "name": "Taraba",
+    "officialName": "Taraba State",
+    "code": "TA",
+    "country": "NG",
+    "parentId": "area:zone:north-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "TA",
+        "state_name": "Taraba",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:yobe",
+    "type": "STATE",
+    "name": "Yobe",
+    "officialName": "Yobe State",
+    "code": "YO",
+    "country": "NG",
+    "parentId": "area:zone:north-east",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "YO",
+        "state_name": "Yobe",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  },
+  {
+    "id": "area:state:zamfara",
+    "type": "STATE",
+    "name": "Zamfara",
+    "officialName": "Zamfara State",
+    "code": "ZA",
+    "country": "NG",
+    "parentId": "area:zone:north-west",
+    "status": "ACTIVE",
+    "sources": [
+      {
+        "sourceId": "source:community:existing-repo-seed",
+        "confidence": "MEDIUM"
+      }
+    ],
+    "quality": {
+      "status": "NEEDS_REVIEW",
+      "verificationLevel": "COMMUNITY_SEEDED",
+      "lastVerifiedAt": null,
+      "issues": [
+        "Seeded from existing repository data; verify against official source before live use."
+      ]
+    },
+    "metadata": {
+      "legacy": {
+        "state_code": "ZA",
+        "state_name": "Zamfara",
+        "country_code": "NG",
+        "country_name": "Nigeria"
+      }
+    }
+  }
+]
